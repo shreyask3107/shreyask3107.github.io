@@ -98,11 +98,11 @@ In plots below sampling makes the data points of the same gesture have a same sh
 
 One of the samples for gesture `door`|  Another sample for gesture `door`
 :-------------------------:|:-------------------------:
-![](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/G1.png)  |  ![](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/G2.png)
+![1](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/G1.png)  |  ![2](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/G2.png)
 
 One of the samples for gesture `door`|  Another sample for gesture `window`
 :-------------------------:|:-------------------------:
-![](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/G3.png)  |  ![](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/G4.png)
+![3](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/G3.png)  |  ![4](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/G4.png)
 
 
  If you face some problems or are not clear about the usage email me at [siddharthnayak98@gmail.com](mailto:siddharthnayak98gmail.com)
