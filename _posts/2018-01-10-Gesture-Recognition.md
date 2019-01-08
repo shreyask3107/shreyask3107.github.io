@@ -1,7 +1,5 @@
 # Gesture-Recognition 
-Recognition of standard army hand gestures.
-
-A glove for recognising gestures for soldiers to communicate with each other.
+Recognition of standard army hand gestures.A glove for recognising gestures for soldiers to communicate with each other.
 It recognises these [gestures](https://www.zombiehunters.org/wiki/index.php/Military_Hand_Signals).
 
 ## Hardware:
@@ -12,6 +10,7 @@ It recognises these [gestures](https://www.zombiehunters.org/wiki/index.php/Mili
 
 
 ## Nomenclature of data:
+
 ### Static Gestures Data: 
 <gesture_name.txt> --> values of accelerometer and gyro values for the gesture `gesture_name`.
 
