@@ -12,7 +12,7 @@ It recognises these [gestures](https://www.zombiehunters.org/wiki/index.php/Mili
 ## Nomenclature of data:
 
 ### Static Gestures Data: 
-<gesture_name.txt> --> values of accelerometer and gyro values for the gesture `gesture_name`.
+`<gesture_name.txt>`: values of accelerometer and gyro values for the gesture `gesture_name`.
 
 First seven columns correspond to flex sensor values: First five for five fingers respectively, 6th row for wrist and the 7th column for elbow. 
 
