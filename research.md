@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Few of the Research Problems I am currently interested in:
+title: Research Proposals
+subtitle: Few of the Research Problems I am currently interested in:
 ---
 
 
