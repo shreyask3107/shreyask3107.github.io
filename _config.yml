@@ -26,7 +26,9 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   Research Proposals : "research"
-  Courses: "courses"
+  Courses: 
+     - "Coursework"
+     - "Course Projects"
   GitHub: "http://github.com/nsidn98"
 #   Research:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
