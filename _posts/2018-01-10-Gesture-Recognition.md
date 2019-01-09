@@ -1,10 +1,8 @@
 # Gesture-Recognition 
-Recognition of standard army hand gestures.A glove for recognising gestures for soldiers to communicate with each other.
-
-It recognises these [gestures](https://www.zombiehunters.org/wiki/index.php/Military_Hand_Signals).
+Recognition of standard army hand gestures.A glove for recognising gestures for soldiers to communicate with each other.It recognises these [gestures](https://www.zombiehunters.org/wiki/index.php/Military_Hand_Signals).
 
 ## Hardware:
-![Image of the glove](https://github.com/nsidn98/nsidn98.github.io/blob/master/img/FullSizeRender.jpg)
+![Image of the glove](https://drive.google.com/drive/u/0/folders/10GU1HkOpvSaHTAX4woNZA-g82Wb0sFjv)
 
 ## Circuit(Layman):
 ![Circuit](https://github.com/nsidn98/Gesture-Recognition/blob/master/gesture%20recognition_bb.jpg)
