@@ -3,7 +3,7 @@ Recognition of standard army hand gestures.A glove for recognising gestures for 
 It recognises these [gestures](https://www.zombiehunters.org/wiki/index.php/Military_Hand_Signals).
 
 ## Hardware:
-![Image of the glove](img/FullSizeRender.jpg)
+![Image of the glove](https://github.com/nsidn98/nsidn98.github.io/blob/master/img/FullSizeRender.jpg)
 
 ## Circuit(Layman):
 ![Circuit](https://github.com/nsidn98/Gesture-Recognition/blob/master/gesture%20recognition_bb.jpg)
