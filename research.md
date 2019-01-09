@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Research Proposals
 subtitle: The first principle is that you must not fool yourself and you are the easiest person to fool -Richard Feynman
 ---
 
