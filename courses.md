@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Courses
+subtitle: A list of courses done
 ---
 
-Semester 6(tentative):
+Semester 6 (tentative):
 * Nonlinear Control
 * Convex Optimisation
 * Probability for Electrical Engineers
@@ -25,6 +26,7 @@ Semester 4:
 * Electrical Machines and Lab
 * Applied Programming Lab
 * Solid State Devices
+* Computer Vision (Audit)
 
 Semester 3:
 * Microprocessor Theory and Lab
