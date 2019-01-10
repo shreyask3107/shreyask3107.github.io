@@ -23,10 +23,10 @@ subtitle: A list of Course Projects and Programming Assignments
 [**[Assignments]**](https://github.com/nsidn98/Applied-Programming-Lab): Python implementation of Integration with Limits, Finding Fourier Coefficients of signals, Least Squares Method, Simulation of flow of temperature in a plate with Laplacian Equation, Simulation of flow of electrons in a tubelight, Laplace Transforms, Simulation of Highpass and Lowpass Circuits, Digital Fourier Transform.
 
 ### Analog Systems and Lab:
-**Analog stethoscope:** [**[Course Project]**](https://github.com/nsidn98/Analog-Systems)
+**Analog stethoscope:** [**[Course Project]**](https://github.com/nsidn98/Analog-Systems): Implemented Ramp Generator, PWM Modulator, Low Pass Filter, Compensator, Class-D Audio Amplifier, Single ended Differential Input Converter, H-bridge, Bandpass Filter, Adder and Peak Detector in hardware and integrated all of them to get synchronised light and sound output for inputs of specific frequencies.
 
 ### Microprocessor Theory and Lab:
-**Virtual Central Processing Unit(CPU):** [**[Course Project]**](https://github.com/nsidn98/Microprocessor-Verilog)
+**Virtual Central Processing Unit(CPU):** [**[Course Project]**](https://github.com/nsidn98/Microprocessor-Verilog): Designed and implemented an 8-bit Microprocessor with 'von Neumann Architecture' using Verilog HDL(Hardware Description Language). Also made an assembler to convert human readable code to machine language.
 
 ### Solid State Devices:
 [**[Assignments]**](https://github.com/nsidn98/Solid-State-Devices): Implementation of p-n Junction Diodes with non-idealities.
