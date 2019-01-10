@@ -28,7 +28,7 @@ navbar-links:
   Research Proposals : "research"
   Courses: 
      - Coursework: "courses"
-     - Course Projects: "courses"
+     - Course Projects: "courseproject"
   GitHub: "http://github.com/nsidn98"
 #   Research:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
