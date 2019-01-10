@@ -5,8 +5,7 @@ subtitle: A list of Course Projects and Programming Assignments
 ---
 
 ### Reinforcement Learning:
-**Robust Reinforcement Learning**
-
+**Robust Reinforcement Learning:**
 **Author:** Rishhanth Maanav V and Siddharth Nayak
 
 [**[Course Project]**](https://github.com/nsidn98/Robust-Reinforcement-Learning): Implementation of two Robust Reinforcement Learning Algorithms namely Adversarially Robust Policy Learning by Mandlekar et al.[[1]](https://stanfordvl.github.io/ARPL/arpl_mzg_iros17.pdf) and Robust Adversarial Reinforcement Learning[[2]](https://arxiv.org/abs/1703.02702)
