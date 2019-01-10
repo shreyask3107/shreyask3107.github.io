@@ -6,7 +6,7 @@ subtitle: A list of Course Projects and Programming Assignments
 
 ### Reinforcement Learning:
 #### Robust Reinforcement Learning: [**[Course Project]**](https://github.com/nsidn98/Robust-Reinforcement-Learning)
-#### Project Members: Rishhanth Maanav V and Siddharth Nayak
+##### Project Members: Rishhanth Maanav V and Siddharth Nayak
 Implementation of two Robust Reinforcement Learning Algorithms namely Adversarially Robust Policy Learning by Mandlekar et al.[[1]](https://stanfordvl.github.io/ARPL/arpl_mzg_iros17.pdf) and Robust Adversarial Reinforcement Learning[[2]](https://arxiv.org/abs/1703.02702)
 
 [**[Assignments]**](https://github.com/nsidn98/Reinforcement-Learning-CS6700): Implementation of Value Iteration, Policy Iteration, Modified Policy Iteration, Dynamic Programming, Gauss Seidel Value Iteration, Gridworld.
@@ -27,7 +27,7 @@ Implemented Ramp Generator, PWM Modulator, Low Pass Filter, Compensator, Class-D
 
 ### Microprocessor Theory and Lab:
 #### Virtual Central Processing Unit(CPU): [**[Course Project]**](https://github.com/nsidn98/Microprocessor-Verilog)
-#### Project Members: Siddharth Nayak and Abhishek Bakolia
+##### Project Members: Siddharth Nayak and Abhishek Bakolia
 Designed and implemented an 8-bit Microprocessor with 'von Neumann Architecture' using Verilog HDL(Hardware Description Language). Also made an assembler to convert human readable code to machine language.
 
 ### Solid State Devices:
