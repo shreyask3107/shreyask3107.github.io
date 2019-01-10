@@ -5,7 +5,7 @@ subtitle: A list of Course Projects and Programming Assignments
 ---
 
 ### Reinforcement Learning:
-Robust Reinforcement Learning: [[Course Project]](https://github.com/nsidn98/Robust-Reinforcement-Learning)
+Robust Reinforcement Learning: [**[Course Project]**](https://github.com/nsidn98/Robust-Reinforcement-Learning)
 
 ### Computational Neuroscience:
 [**[Assignments]**](https://github.com/nsidn98/Computational-Neuroscience)
