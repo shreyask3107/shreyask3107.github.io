@@ -13,4 +13,9 @@ subtitle: Few of the Research Problems I am currently interested in
 * **Reinforcement Learning for Block Sparsity Pruning in Deep Neural Networks for Model Compression:**
 AutoMl has been used for model compression to get smaller and faster deep neural networks by He et al[[1]](https://arxiv.org/pdf/1802.03494.pdf). But in this work they prune the weights with a reinforcement learning agent layer wise. But one of the better ways to achieve faster networks is by having block sparse weights. A reinforcement learning agent can be used to get block sparse weights.
 
+* **Prediction of Intentions of Driver to Park a car:**
+Many of the car companies have an automatic park feature which parks the car automatically. This does help the driver in making complex manoeuvres required to park the car in smaller spaces. But sometimes in cramped spaces like parking lots, the driver may make some wrong manoeuvres before pressing the auto park button. This may also make it diffcult for the decision system which governs the auto park action and thus not leading to a successful parking. To tackle this, a module could be added onto the vehicle to detect some features of the driver to detect his/her intentions to park the car. A few of the features that could be used are: The posture of the driver, the gaze of the driver, speed of the vehicle, steering directions. The above mentioned features do experience a few changes when a driver wants to park a car.
 
+
+* **Dum-E:**
+![DumE](https://github.com/nsidn98/nsidn98.github.io/blob/master/img/dumE.jpg)
