@@ -30,4 +30,4 @@ Hence, the development of technology for segregation at source is necessary. In 
 
 ### Self- Balancing Robot
 #### Project Members: **Siddharth Nayak, Rahul Chakwate, Adil Shaikh, Anuj Sindgi, Atharva Rajadnya**
-(My first project tech project.)
+(My first tech project.)
