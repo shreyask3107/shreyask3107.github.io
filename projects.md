@@ -28,7 +28,7 @@ Hence, the development of technology for segregation at source is necessary. In 
 
 ### Self- Balancing Robot
 #### Project Members: **Siddharth Nayak, Rahul Chakwate, Adil Shaikh, Anuj Sindgi, Atharva Rajadnya**
-(My first tech project.)
+Self-Balancing Robot was the first tech-project I worked on. It is basically a one wheeled robot which balances itself to stay upright. It is like the real-life version of the Cartpole from OpenAI Gym. The robot balances itself using a tuned Proportional-Integral-Derivative(PID) Controller. The angles of inclination and the angular velocities are given as the state vector. I learnt a lot about electronics, robotics and programming while working on this project.[**[Code]**](https://github.com/nsidn98/One-Wheeled-Balancing-Robot)
 
 
 ### Mini Projects:
