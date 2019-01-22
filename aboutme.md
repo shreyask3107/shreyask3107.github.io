@@ -10,7 +10,7 @@ I am interested in Robotics, Reinforcement Learning and Robust Control Theory an
 ### Few of my skills:
 I can play piano and harmonium.
 
-I can speak [7 languages](https://github.com/nsidn98).
+I can speak [7 languages](https://drive.google.com/file/d/1BLh826hWjfB9WzqxdRMtBk1tdjcRABrI/view?usp=sharing).
 
 I used to play cricket professionally.
 
