@@ -16,4 +16,4 @@ I used to play cricket professionally.
 
 I love to swim and play water-polo.
 
-I can like [sketching](https://drive.google.com/drive/folders/10i5ru6oahtPOYvSR3Yadbabe0xIXm_x9?usp=sharing).
+I like [sketching](https://drive.google.com/drive/folders/10i5ru6oahtPOYvSR3Yadbabe0xIXm_x9?usp=sharing).
