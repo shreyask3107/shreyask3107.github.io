@@ -12,6 +12,7 @@ Semester 6 (tentative):
 * Machine Intelligence and Brain Research
 * Undergraduate Research
 * Thermal Engineering
+* Digital Video Processing
 
 Semester 5:
 * Reinforcement Learning
