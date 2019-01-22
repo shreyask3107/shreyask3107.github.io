@@ -72,7 +72,6 @@ page-img: "/img/bgimage.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Siddharth Nayak
-  sa: asd
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
