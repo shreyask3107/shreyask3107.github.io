@@ -18,4 +18,4 @@ I love to swim and play water-polo.
 
 I like [sketching](https://drive.google.com/drive/folders/10i5ru6oahtPOYvSR3Yadbabe0xIXm_x9?usp=sharing).
 
-I like Formula 1 especially the engineering that goes into making the cars faster than before.
+I like Formula 1 especially the engineering that goes into it.
