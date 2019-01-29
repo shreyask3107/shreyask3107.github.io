@@ -33,6 +33,8 @@ Self-Balancing Robot was the first tech-project I worked on. It is basically a o
 
 ### Mini Projects:
 #### A list of small projects which required less than a week to work on:
+* [**Bass Booster**](https://github.com/nsidn98/Bass-Booster): A pythonic way to overlay another layer of bass in audio files. I was motivated to try out this after hearing this [bass boosted version](https://www.youtube.com/watch?v=VmITSg23CTY) of Attention by Charlie Puth. Can also extend this to make a treble booster.
+
 * [**DeepTraffic**](https://selfdrivingcars.mit.edu/deeptraffic/) is a deep reinforcement learning competition. The goal is to create a neural network to drive a vehicle (or multiple vehicles) as fast as possible through dense traffic. I got a rank of 3203 out of 24,449 participants with a speed of 69.18 mph.[**[Code]**](https://github.com/nsidn98/DeepTraffic-MIT)
 
 * **MouseCam**: MouseCam is a small device I made to control a computer mouse with our thumb, index and middle finger. There are two ways to control the mouse:
@@ -44,6 +46,6 @@ The mouse is basically controlled with the movement of the hand. The mouse point
 
 * **Games**: A few of the games implemented 
   - Conway's Game of Life
-  - Car Racer
+  - Car Racer: The video game of traversing a car through a road just like the DeepTraffic Competition.
   - Maze Solver: Solves mazes with input image
   [**[Code]**](https://github.com/nsidn98/Games)
