@@ -9,7 +9,6 @@ Semester 6 (tentative):
 * Convex Optimisation
 * Probability for Electrical Engineers
 * Introduction to Robotics
-* Machine Intelligence and Brain Research
 * Undergraduate Research
 * Thermal Engineering
 * Digital Video Processing
