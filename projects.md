@@ -17,7 +17,7 @@ subtitle: A few of my projects
 #### Author: **Siddharth Nayak**
 
 **Abstract:** Soldiers communicate with each other through gestures. But sometimes those gestures are not visible due to obstructions or poor lighting. For that purpose an instrument is required to record the gesture an send it to the fellow soldiers. The two options for gesture recognition are through Computer Vision and through some sensors attached to the hands.The first option is not viable in this case as proper lighting is required for recognition through Computer Vision. Hence the second option of using sensors for recognitions has been used. We present a system which recognises the gestures given in this [link](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/gestures.jpg).
-[**[Documentation]**](https://github.com/nsidn98/Gesture-Recognition/blob/master/README.md)[**[Code]**](https://github.com/nsidn98/Gesture-Recognition)
+[**[Documentation]**](https://github.com/nsidn98/Gesture-Recognition/blob/master/README.md)[**[Code]**](https://github.com/nsidn98/Gesture-Recognition)[**[Report]**](https://drive.google.com/file/d/1Hs3rmz6wCDWJ5HbGBlTW_ZID8fiIiPC6/view?usp=sharing)
 
 ### Automatic Waste Segregation Dustbin:
 #### Project Members: **Varun Sundar, Arvind Pujari, Siddharth Nayak, Rohith Srinivas, Vishnu Harshith, Sai Venkat, Iniyan Ram**
