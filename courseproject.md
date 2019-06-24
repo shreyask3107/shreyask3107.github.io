@@ -3,6 +3,9 @@ layout: page
 title: Course Projects
 subtitle: A list of Course Projects and Programming Assignments
 ---
+### Non Linear Control
+A short review on Semistability of Non Linear Control Systems.[**[pdf]**](https://github.com/nsidn98/Non-Linear-Control/blob/master/NLC%20Project/semistability.pdf)
+
 
 ### Reinforcement Learning:
 #### Robust Reinforcement Learning: [**[Course Project]**](https://github.com/nsidn98/Robust-Reinforcement-Learning)
