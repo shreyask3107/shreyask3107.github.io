@@ -4,14 +4,22 @@ title: Courses
 subtitle: A list of courses done
 ---
 
-Semester 6 (tentative):
+Semester 7(tentative):
+* Linear Dynamical Systems
+* Modern Control Theory
+* Information Theory
+* Fundamentals of Operations Research
+* Computational Models of Cognition
+* Life Sciences
+
+Semester 6:
 * Nonlinear Control
 * Convex Optimisation
 * Probability for Electrical Engineers
 * Introduction to Robotics
 * Undergraduate Research
 * Thermal Engineering
-* Digital Video Processing
+* Digital Video Processing(Audit)
 
 Semester 5:
 * Reinforcement Learning
