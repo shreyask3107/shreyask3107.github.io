@@ -6,7 +6,7 @@ subtitle: A list of courses done
 
 Semester 7(tentative):
 * Linear Dynamical Systems
-* Modern Control Theory
+* Advanced Topics in Artificial Intelligence
 * Information Theory
 * Fundamentals of Operations Research
 * Computational Models of Cognition
