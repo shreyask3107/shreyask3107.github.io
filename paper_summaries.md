@@ -10,7 +10,7 @@ subtitle: One page summaries of papers I found interesting along with ideas to e
 * Motivates me to read more papers!
 
 | Paper         | Authors        | Conference  | Authors Affiliation | Summary Link |
-| ------------- |:-------------:| -----:| -----:| -------: |
+| :-------------: |:-------------:| :-----:| :-----:| :-------: |
 | [Object Sensitive Deep Reinforcement Learning](https://arxiv.org/abs/1809.06064) | Y.Li, K.Sycara, R.Iyer | GCAI-17  | Carnegie Mellon University | Link |
 | [Safe Reinforcement Learning with Model Uncertainty Estimates](https://arxiv.org/abs/1810.08700) | B.Lutjens, M.Everett, J.How      | ICRA-18 | Massachusetts Institute of Technology | Link |
 |[Multi-stage Reinforcement Learning for Object Detection](https://arxiv.org/pdf/1810.10325.pdf)| J.Konig, S.Malberg, M.Martens, S.Niehaus, A.Grimberghe, A.Ramaswamy| CVC-19 | Paderborn University| Link |
