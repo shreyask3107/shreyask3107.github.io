@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   Research Proposals : "research"
+  Paper Summaries: "paper_summaries"
   Courses: 
      - Coursework: "courses"
      - Course Projects: "courseproject"
