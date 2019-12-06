@@ -8,7 +8,7 @@ Semester 8 (tentative):
 * Probabilistic Graphical Models
 * Dynamic Games: Theory and Applications
 * Sensing Techniques and Sensor Systems
-* German
+* Humanities: German
 
 
 Semester 7:
