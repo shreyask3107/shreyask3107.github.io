@@ -3,13 +3,18 @@ layout: page
 title: Courses
 subtitle: A list of courses done
 ---
+Semester 8 (tentative):
+* Bachelors Thesis Project
+* Probabilistic Graphical Models
+* Dynamic Games: Theory and Applications
+* Sensing Techniques and Sensor Systems
+* German
 
-Semester 7(tentative):
+
+Semester 7:
 * Linear Dynamical Systems
 * Advanced Topics in Artificial Intelligence
-* Information Theory
 * Fundamentals of Operations Research
-* Computational Models of Cognition
 * Life Sciences
 
 Semester 6:
