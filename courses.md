@@ -5,8 +5,8 @@ subtitle: A list of courses done
 ---
 Semester 8 (tentative):
 * Bachelors Thesis Project
-* Probabilistic Graphical Models
-* Dynamic Games: Theory and Applications
+* Non-smooth analysis in Control and Optimisation
+* Introduction to Autonomous Vehicles
 * Sensing Techniques and Sensor Systems
 * Humanities: German
 
@@ -14,7 +14,7 @@ Semester 8 (tentative):
 Semester 7:
 * Linear Dynamical Systems
 * Advanced Topics in Artificial Intelligence
-* Fundamentals of Operations Research
+* Humanities: Fundamentals of Operations Research
 * Life Sciences
 
 Semester 6:
