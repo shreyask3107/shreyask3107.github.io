@@ -3,6 +3,11 @@ layout: page
 title: Course Projects
 subtitle: A list of Course Projects and Programming Assignments
 ---
+### Advanced Topics in Artificial Intelligence
+#### Transfer Learning for Reinforcement Learning Agents by State Encoders:
+#### Project Members: Siddharth Nayak, Abhishek Nair
+A model to transfer the learning of an RL agent trained on one environment to another environment without additional training. Experiments with basic OpenAI Gym Environments to show the proof of concept. [**[Slides]**](https://drive.google.com/file/d/1GzhI6xnuKxr6QkhOG3jcXC3-WvWXMpbD/view?usp=sharing)
+
 ### Non Linear Control
 A short review on Semistability of Non Linear Control Systems.[**[pdf]**](https://github.com/nsidn98/Non-Linear-Control/blob/master/NLC%20Project/semistability.pdf)
 
