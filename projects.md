@@ -4,27 +4,30 @@ title: My Projects
 subtitle: A few of my projects
 ---
 
+### Solving the online version of the 3D bin-packing problem:
+#### Author: Richa Verma, Aniruddha Singhal, Harshad Khadilkar, Ansuma Basumatary, Siddharth Nayak, Harsh Vardhan Singh, Swagat Kumar and Rajesh Sinha
+##### Accepted at the AAAI'20 workshop on [Generalization in Planning (GenPlan)](https://sites.google.com/view/genplan20/home/accepted-papers?authuser=0)
+We attempt to solve the online version of the 3D bin-packing problem using reinforcement learning. Our method-PackMan beats heuristical methods in solving the task of filling the containers with boxes without the knowledge of the order of incoming box dimensions.[**[PDF]**](https://drive.google.com/file/u/1/d/1XjGhJ_4zmKgbX37RikYqVWMkGC_hYTF4/view?usp=sharing) [**[Demo]**](https://drive.google.com/file/d/1vsZ5iZTnsQI76zvZ6CLopwNTYL6vDvG_/view?usp=sharing)
 
 ### Robust Reinforcement Learning:
-#### Author:**Rishhanth Maanav V and Siddharth Nayak**
-**Abstract**: Deep neural networks serve as function approximators with high complexity, and
-have enabled reinforcement learning agents to be used for a wide range of tasks,such as games and robotic control. An agent tries to learn policies and value functions through trial and error by interacting with an environment until it converges to an optimal policy. Robustness and stability are quite critical in reinforcement learning; however, neural networks are vulnerable to noise from unexpected sources and are not likely to withstand disturbances. Also, whenever robots are trained as reinforcement learning agents, they are generally either initialized with hand-made policies or policies from simulated agents. The simulated agents, however may not generalize well to real world due to scenarios which may not be captured while training. Transfer learning may not be efficient enough for fast convergence on robots due to these factors. In this work, we evaluate two robust reinforcement learning algorithms and compare them on different amounts of perturbations. The main idea drawn from this comparison is that adversarial examples can be used to choose perturbations while training an agent.
+#### Authors: Rishhanth Maanav V and **Siddharth Nayak**
+We implement two robust reinforcement learning algorithms: Robust Adversarial Reinforcement Learning (RARL) by Pinto et al. and Adversarial Robust Policy Learning (ARPL) by Mandlekar et al. and compare them with na&iuml;ve and vanilla reinforcement learning algorithms on different amounts of perturbations while testing.
 [**[PDF]**](https://drive.google.com/file/d/1O04b-M3DCbFz4kAHzHdzxD9DLBO6Khbn/view?usp=sharing)[**[Code]**](https://github.com/nsidn98/Robust-Reinforcement-Learning)
 
 ### Hand Gesture Recognition for Soldier Support:
 #### Author: **Siddharth Nayak**
 
-**Abstract:** Soldiers communicate with each other through gestures. But sometimes those gestures are not visible due to obstructions or poor lighting. For that purpose an instrument is required to record the gesture an send it to the fellow soldiers. The two options for gesture recognition are through Computer Vision and through some sensors attached to the hands.The first option is not viable in this case as proper lighting is required for recognition through Computer Vision. Hence the second option of using sensors for recognitions has been used. We present a system which recognises the gestures given in this [link](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/gestures.jpg).
-[**[Documentation]**](https://github.com/nsidn98/Gesture-Recognition/blob/master/README.md)[**[Code]**](https://github.com/nsidn98/Gesture-Recognition)[**[Report]**](https://drive.google.com/file/d/1Hs3rmz6wCDWJ5HbGBlTW_ZID8fiIiPC6/view?usp=sharing)
+I created a hand-gesture recognition glove which recognises the gestures given in this [link](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/gestures.jpg). This does not use computer vision and instead uses readings from sensors attached to the glove.
+[**[Documentation]**](https://github.com/nsidn98/Gesture-Recognition/blob/master/README.md)[**[Code]**](https://github.com/nsidn98/Gesture-Recognition)[**[PDF]**](https://drive.google.com/file/d/1Hs3rmz6wCDWJ5HbGBlTW_ZID8fiIiPC6/view?usp=sharing)
 
 ### Automatic Waste Segregation Dustbin:
-#### Project Members: **Varun Sundar, Arvind Pujari, Siddharth Nayak, Rohith Srinivas, Vishnu Harshith, Sai Venkat, Iniyan Ram**
-India produces an average of 0.5 kilograms of waste, per person, every day. With a population of over 1.2 billion, this translates to an overwhelming amount of Muncipal Solid Waste (MSW) being produced. However, there is virtually no segregation at source in India, hence most waste is dumped directly into landfills. This leads to huge piles of waste and poor living standards for ragpickers and those in the vicinity. It also leads to groundwater pollution, the effects of which can percolate to hundreds of kilometers. In the present study, we explore one possibility, in the form of self segregating dustbins, which uses deep learning on features based on vision,inductance and capacitance, coupled with a mechanical sorting system, to identify and classify waste into distinct categories, and segregate it at source.
+#### Project Members: Varun Sundar, Arvind Pujari,**Siddharth Nayak**, Rohith Srinivas, Vishnu Harshith, Sai Venkat, Iniyan Ram
+We created an automatic waste segregation dustbin which classifies the waste into distinct categories using features learned from images, the capacitances and the inductances of the waste. The dustbin also has a mechanical disc powered by stepper motors which push the waste into its corresponding compartment after the classification.
 [**[Documentation]**](https://drive.google.com/file/d/178VnadP2o9sCO6stPFOkq8jVb0PkeQId/view?usp=sharing)
 
 
 ### Self- Balancing Robot
-#### Project Members: **Siddharth Nayak, Rahul Chakwate, Adil Shaikh, Anuj Sindgi, Atharva Rajadnya**
+#### Project Members: **Siddharth Nayak**, Rahul Chakwate, Adil Shaikh, Anuj Sindgi, Atharva Rajadnya
 Self-Balancing Robot was the first tech-project I worked on. It is basically a one wheeled robot which balances itself to stay upright. It is like the real-life version of the Cartpole from OpenAI Gym. The robot balances itself using a tuned Proportional-Integral-Derivative(PID) Controller. The angles of inclination and the angular velocities are given as the state vector. I learnt a lot about electronics, robotics and programming while working on this project.[**[Code]**](https://github.com/nsidn98/One-Wheeled-Balancing-Robot)
 
 
