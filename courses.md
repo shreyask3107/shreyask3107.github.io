@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: Courses
-subtitle: A list of courses done
+subtitle: A list of courses done during my Undergraduate Studies at IITM
 ---
 Semester 8 (tentative):
 * Bachelors Thesis Project
