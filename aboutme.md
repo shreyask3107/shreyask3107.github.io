@@ -25,7 +25,7 @@ I am interested in Robotics, Reinforcement Learning and Robust Control Theory an
     I learned to play the harmonium from my grandfather and then later by attending classes. This eventually led me to learn to play the piano. This change was initially quite difficult as one plays a harmonium with only one hand (right in my case) whereas piano is played with both hands. I would definitely like to learn a few other instruments like violin.
 - #### Bands/Artists
     I do like a lot of genres: ranging from rap to rock. My favorite artists include Coldplay, Imagine Dragons, Linkin Park, One Republic, The Score, The Script, Led Zeppelin, Guns N' Roses and Eminem.
-    I also like theme songs and scores from Hans Zimmer, Ramin Djawadi , Brian Tyler (F1 theme!), Ludwig G&ouml;ransson and Alan Silvestri.
+    I also like theme songs and scores from Hans Zimmer, Ramin Djawadi , Brian Tyler ([F1 theme!](https://www.youtube.com/watch?v=8AYy-BcjRXg)), Ludwig G&ouml;ransson and Alan Silvestri.
     
 ### Language
 I can speak [6 languages](https://drive.google.com/file/d/1BLh826hWjfB9WzqxdRMtBk1tdjcRABrI/view?usp=sharing) (and understand 7).
