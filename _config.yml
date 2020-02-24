@@ -28,6 +28,7 @@ navbar-links:
       - Projects: "projects"
       - Research Proposals : "research"
       - Paper Summaries: "paper_summaries"
+  Blog: "blogs"
   Courses: 
      - Coursework: "courses"
      - Course Projects: "courseproject"
