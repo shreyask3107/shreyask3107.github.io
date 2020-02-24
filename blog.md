@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page
 title: My Blog
 subtitle: Just to write my random thoughts!
 ---
