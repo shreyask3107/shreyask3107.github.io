@@ -10,13 +10,12 @@ I am interested in Robotics, Reinforcement Learning and Robust Control Theory an
 ## Interests and Hobbies:
 
 ### Sports
-
 - #### Cricket
-        It is the most followed sport in India and almost every kid in India plays cricket atleast once in their childhood. In my case, I started playing with a leather ball when I was in my 7th grade. Cricket was a stress-buster during my schooling years.
+    It is the most followed sport in India and almost every kid in India plays cricket atleast once in their childhood. In my case, I started playing with a leather ball when I was in my 7th grade. Cricket was a stress-buster during my schooling years.
 - #### Water Polo 
-      A sport I learned after coming to IIT Madras in my second year. Fell in love with the speed of the game. A difficult sport to learn (Even basic floating was hard initially!). Water Polo has helped me improve my stamina and endurance.
+    A sport I learned after coming to IIT Madras in my second year. Fell in love with the speed of the game. A difficult sport to learn (Even basic floating was hard initially!). Water Polo has helped me improve my stamina and endurance.      
 - #### Formula 1
-      The pinnacle of motorsports! I have been watching F1 since my childhood and this was one of the things which motivated me to take up engineering. The amount of engineering which goes into making the cars faster even on tricky street circuits like Monaco has always fascinated me. My favourite constructor has been [Mercedes-AMG Petronas Motorsport](https://www.mercedesamgf1.com/en/) ever since it (re-)entered F1 in 2010 with Michael Schumacher after taking over Brawn GP. 
+    The pinnacle of motorsports! I have been watching F1 since my childhood and this was one of the things which motivated me to take up engineering. The amount of engineering which goes into making the cars faster even on tricky street circuits like Monaco has always fascinated me. My favourite constructor has been [Mercedes-AMG Petronas Motorsport](https://www.mercedesamgf1.com/en/) ever since it (re-)entered F1 in 2010 with Michael Schumacher after taking over Brawn GP. 
 - #### Other sports I follow
     - Football: Liverpool and Bayern M&uuml;nchen
     - Tennis: Roger Federer and Novak Djokovic (I know they are rivals!)
