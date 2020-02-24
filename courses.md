@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Courses
 subtitle: A list of courses done during my Undergraduate Studies at IITM
 ---
