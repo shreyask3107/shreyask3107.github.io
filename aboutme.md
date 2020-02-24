@@ -11,9 +11,9 @@ I am interested in Robotics, Reinforcement Learning and Robust Control Theory an
 
 ### Sports
 
-#### Cricket: About 
-#### Water Polo: Learn 
-#### Formula 1: Engg
+- #### Cricket: About 
+- #### Water Polo: Learn 
+- #### Formula 1: Engg
 
 ### Music 
 I can play piano and harmonium.
