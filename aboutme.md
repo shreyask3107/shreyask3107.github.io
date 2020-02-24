@@ -10,9 +10,18 @@ I am interested in Robotics, Reinforcement Learning and Robust Control Theory an
 ### Interests and Hobbies:
 
 > <strong> Sports </strong>
-I can play piano and harmonium.
+Help here
+>> Cricket: About 
+>> Water Polo: Learn 
+>> Formula 1: Engg
 
-I can speak [7 languages](https://drive.google.com/file/d/1BLh826hWjfB9WzqxdRMtBk1tdjcRABrI/view?usp=sharing).
+> <strong> Music </strong>
+>> I can play piano and harmonium.
+
+> <strong> Languages </strong>
+>> I can speak [7 languages](https://drive.google.com/file/d/1BLh826hWjfB9WzqxdRMtBk1tdjcRABrI/view?usp=sharing).
+
+> <strong> Sketching </strong>
 
 I used to play cricket professionally.
 
