@@ -7,22 +7,21 @@ subtitle: The first principle is that you must not fool yourself and you are the
 I am interested in Robotics, Reinforcement Learning and Robust Control Theory and I want to contribute something to the world by making new technological products.
 
 
-### Interests and Hobbies:
+## Interests and Hobbies:
 
-> <strong> Sports </strong>
-Help here
->> Cricket: About 
->> Water Polo: Learn 
->> Formula 1: Engg
+### Sports
 
-> <strong> Music </strong>
->> I can play piano and harmonium.
+#### Cricket: About 
+#### Water Polo: Learn 
+#### Formula 1: Engg
 
-> <strong> Languages </strong>
->> I can speak [7 languages](https://drive.google.com/file/d/1BLh826hWjfB9WzqxdRMtBk1tdjcRABrI/view?usp=sharing).
+### Music 
+I can play piano and harmonium.
 
-> <strong> Sketching </strong>
+### Languages
+I can speak [7 languages](https://drive.google.com/file/d/1BLh826hWjfB9WzqxdRMtBk1tdjcRABrI/view?usp=sharing).
 
+### Sketching
 I used to play cricket professionally.
 
 I love to swim and play water-polo.
