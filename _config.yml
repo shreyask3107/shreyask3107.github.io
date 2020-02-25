@@ -7,6 +7,7 @@
 url: "https://nsidn98.github.io"
 baseurl: ""
 
+include: ['_posts']
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
