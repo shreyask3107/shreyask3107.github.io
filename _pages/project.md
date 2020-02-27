@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About Me"
+title: "A few of the projects I worked on!"
 permalink: /project/
 author_profile: true
 redirect_from:
