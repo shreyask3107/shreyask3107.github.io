@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /extracurricular-activities
 ---
+
 ### A Generalized Reinforcement Learning Algorithm for Online 3D Bin-Packing:
 #### Author: Richa Verma, Aniruddha Singhal, Harshad Khadilkar, Ansuma Basumatary, Siddharth Nayak, Harsh Vardhan Singh, Swagat Kumar and Rajesh Sinha
 ##### Accepted at the AAAI'20 workshop on [Generalization in Planning (GenPlan)](https://sites.google.com/view/genplan20/home/accepted-papers?authuser=0)
