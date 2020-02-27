@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "About Me"
 permalink: /other/
 author_profile: true
 redirect_from:
   - /extracurricular-activities
 ---
-The first principle is that you must not fool yourself and you are the easiest person to fool -Richard Feynman
-
+# The first principle is that you must not fool yourself and you are the easiest person to fool -Richard Feynman
 
 # Interests and Hobbies:
 

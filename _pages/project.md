@@ -1,14 +1,13 @@
 ---
 layout: archive
 title: "A few of the projects I worked on!"
-subtitle: "Change check"
 permalink: /project/
 author_profile: true
 redirect_from:
   - /extracurricular-activities
 ---
 
-## A Generalized Reinforcement Learning Algorithm for Online 5D Bin-Packing:
+## A Generalized Reinforcement Learning Algorithm for Online 3D Bin-Packing:
 #### Author: Richa Verma, Aniruddha Singhal, Harshad Khadilkar, Ansuma Basumatary, Siddharth Nayak, Harsh Vardhan Singh, Swagat Kumar and Rajesh Sinha
 #### Accepted at the AAAI'20 workshop on [Generalization in Planning (GenPlan)](https://sites.google.com/view/genplan20/home/accepted-papers?authuser=0)
 We attempt to solve the online version of the 3D bin-packing problem using reinforcement learning. Our method-PackMan beats heuristical methods in solving the task of filling the containers with boxes without the knowledge of the order of incoming box dimensions.[**[PDF]**](https://drive.google.com/file/u/1/d/1XjGhJ_4zmKgbX37RikYqVWMkGC_hYTF4/view?usp=sharing) [**[Demo]**](https://drive.google.com/file/d/1vsZ5iZTnsQI76zvZ6CLopwNTYL6vDvG_/view?usp=sharing)
