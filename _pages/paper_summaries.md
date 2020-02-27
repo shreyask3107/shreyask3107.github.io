@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "A few of the projects I worked on!"
-permalink: /project/
+title: "Paper Summaries"
+permalink: /paper_summaries/
 author_profile: true
 redirect_from:
   - /extracurricular-activities
 ---
+## One page summaries of papers I found interesting along with ideas to extend them!
 
 #### Reasons for writing paper summaries:
 * Writing paper summaries helps me in retaining the information in the paper and understanding it in a better way as it makes me think more about the paper which I would not have done by just reading the papers.
