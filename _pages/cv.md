@@ -15,24 +15,29 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Research Intern
+  * TCS Research and Innovation Lab, Mumbai, India
+  * Duties included: 
+  * Supervisor: [Dr. Harshad Khadilkar](https://sites.google.com/view/harshad/home)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2018: Research Assistant
+  * RISE Lab, Indian Institute of Technology Madras
+  * Duties included: 
+  * Supervisor: [Prof. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/)
+
+* Summer 2018: Research Intern
+  * Daimler AG R&D, Sindelfingen, Germany
+  * Duties included: 
+  * Supervisor: Dr. Hannes Gorniaczyk
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Reinforcement Learning
+* Python
+  * PyTorch
+  * TensorFlow
+* Add Skills
 
 Publications
 ======
