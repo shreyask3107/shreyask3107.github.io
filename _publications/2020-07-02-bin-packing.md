@@ -1,9 +1,9 @@
 ---
 title: "A Generalized Reinforcement Learning Algorithm for Online 3D Bin-Packing"
 collection: publications
-permalink: /publication/07-02-2020-bin-packing
+permalink: /publication/2020-07-02-bin-packing
 excerpt: 'We attempt to solve the online version of the 3D bin-packing problem using reinforcement learning. Our method-PackMan beats heuristical methods in solving the task of filling the containers with boxes without the knowledge of the order of incoming box dimensions.'
-date: 07-02-2020
+date: 2020-07-02
 venue: 'Accepted at the AAAI'20 workshop on [Generalization in Planning (GenPlan)](https://sites.google.com/view/genplan20/home/accepted-papers?authuser=0)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
