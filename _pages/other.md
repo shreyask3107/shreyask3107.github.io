@@ -8,8 +8,6 @@ redirect_from:
 ---
 The first principle is that you must not fool yourself and you are the easiest person to fool -Richard Feynman
 
-I am interested in Robotics, Reinforcement Learning and Robust Control Theory and I want to contribute something to the world by making new technological products.
-
 
 ## Interests and Hobbies:
 
