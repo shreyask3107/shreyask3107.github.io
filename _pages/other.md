@@ -8,8 +8,8 @@ redirect_from:
 ---
 # The first principle is that you must not fool yourself and you are the easiest person to fool -Richard Feynman
 
-# Interests and Hobbies:
 
+# Interests and Hobbies:
 ## Sports: ##
 ### Cricket
 It is the most followed sport in India and almost every kid in India plays cricket atleast once in their childhood. In my case, I started playing with a leather ball when I was in my 7th grade. Cricket was a stress-buster during my schooling years.
