@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Home Page"
-excerpt: "About me"
+title: "Welcome to Siddharth's website"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,5 +15,5 @@ broadly interested in Robotics, Reinforcement Learning, Robust Control Theory an
 I interned with  TCS Research and Innovation Lab, Mumbai in the summer of 2019 where I worked with [Dr. Harshad Khadilkar](https://sites.google.com/view/harshad/home) on using reinforcement learning for the online version of 3D bin-packing. I spent the summer of 2018 as a research intern at Daimler AG, Sindelfingen, Germany where I worked with Dr. Hannes Gorniaczyk on finding the optimal camera parameters to capture images such that the object detection performance of pre-trained networks in optimised.
 
 
-## Contact Me
+## Contact Me ##
 I would be glad to have discussions on exciting ideas related to robotics, reinforcement learning and anything related to engineering and science! If you have any exciting ideas, please drop me an email.
