@@ -7,26 +7,21 @@ redirect_from:
   - /extracurricular-activities
 ---
 
-## A Generalized Reinforcement Learning Algorithm for Online 3D Bin-Packing:
-#### Authors: Richa Verma, Aniruddha Singhal, Harshad Khadilkar, Ansuma Basumatary, Siddharth Nayak, Harsh Vardhan Singh, Swagat Kumar and Rajesh Sinha
-#### Accepted at the AAAI'20 workshop on [Generalization in Planning (GenPlan)](https://sites.google.com/view/genplan20/home/accepted-papers?authuser=0)
-We attempt to solve the online version of the 3D bin-packing problem using reinforcement learning. Our method-PackMan beats heuristical methods in solving the task of filling the containers with boxes without the knowledge of the order of incoming box dimensions.[**[PDF]**](https://drive.google.com/file/u/1/d/1XjGhJ_4zmKgbX37RikYqVWMkGC_hYTF4/view?usp=sharing) [**[Demo]**](https://drive.google.com/file/d/1vsZ5iZTnsQI76zvZ6CLopwNTYL6vDvG_/view?usp=sharing)
-
 ## Robust Reinforcement Learning:
 #### Authors: Rishhanth Maanav V and Siddharth Nayak
 We implement two robust reinforcement learning algorithms: Robust Adversarial Reinforcement Learning (RARL) by Pinto et al. and Adversarial Robust Policy Learning (ARPL) by Mandlekar et al. and compare them with na&iuml;ve and vanilla reinforcement learning algorithms on different amounts of perturbations while testing.
-[**[PDF]**](https://drive.google.com/file/d/1O04b-M3DCbFz4kAHzHdzxD9DLBO6Khbn/view?usp=sharing)[**[Code]**](https://github.com/nsidn98/Robust-Reinforcement-Learning)
+[**[PDF]**](http://nsidn98.github.io/files/RobustRL.pdf)[**[Code]**](https://github.com/nsidn98/Robust-Reinforcement-Learning)
 
 ## Hand Gesture Recognition for Soldier Support:
 #### Author: Siddharth Nayak
 
 I created a hand-gesture recognition glove which recognises the gestures given in this [link](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/gestures.jpg). This does not use computer vision and instead uses readings from sensors attached to the glove.
-[**[PDF]**](https://drive.google.com/file/d/1Hs3rmz6wCDWJ5HbGBlTW_ZID8fiIiPC6/view?usp=sharing)[**[Documentation]**](https://github.com/nsidn98/Gesture-Recognition/blob/master/README.md)[**[Code]**](https://github.com/nsidn98/Gesture-Recognition)
+[**[PDF]**](http://nsidn98.github.io/files/Gesture_Recognition.pdf)[**[Documentation]**](https://github.com/nsidn98/Gesture-Recognition/blob/master/README.md)[**[Code]**](https://github.com/nsidn98/Gesture-Recognition)
 
 ## Automatic Waste Segregation Dustbin:
 #### Project Members: Varun Sundar, Arvind Pujari, Siddharth Nayak, Rohith Srinivas, Vishnu Harshith, Sai Venkat, Iniyan Ram
 We created an automatic waste segregation dustbin which classifies the waste into distinct categories using features learned from images, the capacitances and the inductances of the waste. The dustbin also has a mechanical disc powered by stepper motors which push the waste into its corresponding compartment after the classification.
-[**[Documentation]**](https://drive.google.com/file/d/178VnadP2o9sCO6stPFOkq8jVb0PkeQId/view?usp=sharing)
+[**[Documentation]**](http://nsidn98.github.io/files/AWS.pdf)
 
 
 ## Self- Balancing Robot
