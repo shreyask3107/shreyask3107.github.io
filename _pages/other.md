@@ -10,7 +10,7 @@ redirect_from:
 
 # Interests and Hobbies:
 
-## Sports ##
+## Sports: ##
 ### Cricket
 It is the most followed sport in India and almost every kid in India plays cricket atleast once in their childhood. In my case, I started playing with a leather ball when I was in my 7th grade. Cricket was a stress-buster during my schooling years.
 ### Water Polo 
@@ -21,15 +21,15 @@ The pinnacle of motorsports! I have been watching F1 since my childhood and this
 * Football: Liverpool and Bayern M&uuml;nchen
 * Tennis: Roger Federer and Novak Djokovic (I know they are rivals!)
 
-## Music ##
+## Music: ##
 ### Instruments
 I learned to play the harmonium from my grandfather and then later by attending classes. This eventually led me to learn to play the piano. This change was initially quite difficult as one plays a harmonium with only one hand (right in my case) whereas piano is played with both hands. I would definitely like to learn a few other instruments like violin.
 ### Bands/Artists
 I do like a lot of genres: ranging from rap to rock. My favorite artists include Coldplay, Imagine Dragons, Linkin Park, One Republic, The Score, The Script, Led Zeppelin, Guns N' Roses and Eminem.
 I also like theme songs and scores from Hans Zimmer, Ramin Djawadi , Brian Tyler ([F1 theme!](https://www.youtube.com/watch?v=8AYy-BcjRXg)), Ludwig G&ouml;ransson and Alan Silvestri.
     
-## Language ##
+## Language: ##
 I can speak [6 languages](https://drive.google.com/file/d/1BLh826hWjfB9WzqxdRMtBk1tdjcRABrI/view?usp=sharing) (and understand 7) and would like to learn more languages like Sanskrit, Italian and Spanish along with improving on Kannada, French and German.
 
-## Sketching ##
+## Sketching: ##
 A few of my [sketches](https://drive.google.com/drive/folders/10i5ru6oahtPOYvSR3Yadbabe0xIXm_x9?usp=sharing). Sketching has helped me a lot in appreciating the fine details (see: Ironman sketches).
