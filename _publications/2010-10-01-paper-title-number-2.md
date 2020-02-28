@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 2"
+title: "A Generalized Reinforcement Learning Algorithm for Online 3D Bin-Packing"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This is useless'
+excerpt: 'This is uselesssss'
 date: 2010-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
