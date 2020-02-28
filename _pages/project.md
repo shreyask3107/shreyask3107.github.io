@@ -7,24 +7,24 @@ redirect_from:
   - /extracurricular-activities
 ---
 
-## Robust Reinforcement Learning:
+## Robust Reinforcement Learning (2018)
 #### Authors: Rishhanth Maanav V and Siddharth Nayak
 We implement two robust reinforcement learning algorithms: Robust Adversarial Reinforcement Learning (RARL) by Pinto et al. and Adversarial Robust Policy Learning (ARPL) by Mandlekar et al. and compare them with na&iuml;ve and vanilla reinforcement learning algorithms on different amounts of perturbations while testing.
 [**[PDF]**](http://nsidn98.github.io/files/RobustRL.pdf)[**[Code]**](https://github.com/nsidn98/Robust-Reinforcement-Learning)
 
-## Hand Gesture Recognition for Soldier Support:
+## Hand Gesture Recognition for Soldier Support (2017-18)
 #### Author: Siddharth Nayak
 
 I created a hand-gesture recognition glove which recognises the gestures given in this [link](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/gestures.jpg). This does not use computer vision and instead uses readings from sensors attached to the glove.
 [**[PDF]**](http://nsidn98.github.io/files/Gesture_Recognition.pdf)[**[Documentation]**](https://github.com/nsidn98/Gesture-Recognition/blob/master/README.md)[**[Code]**](https://github.com/nsidn98/Gesture-Recognition)
 
-## Automatic Waste Segregation Dustbin:
+## Automatic Waste Segregation Dustbin (2017)
 #### Project Members: Varun Sundar, Arvind Pujari, Siddharth Nayak, Rohith Srinivas, Vishnu Harshith, Sai Venkat, Iniyan Ram
 We created an automatic waste segregation dustbin which classifies the waste into distinct categories using features learned from images, the capacitances and the inductances of the waste. The dustbin also has a mechanical disc powered by stepper motors which push the waste into its corresponding compartment after the classification.
 [**[Documentation]**](http://nsidn98.github.io/files/AWS.pdf)
 
 
-## Self- Balancing Robot
+## Self- Balancing Robot (2016-17)
 #### Project Members: Siddharth Nayak, Rahul Chakwate, Adil Shaikh, Anuj Sindgi, Atharva Rajadnya
 Self-Balancing Robot was the first tech-project I worked on. It is basically a one wheeled robot which balances itself to stay upright. It is like the real-life version of the Cartpole from OpenAI Gym. The robot balances itself using a tuned Proportional-Integral-Derivative(PID) Controller. The angles of inclination and the angular velocities are given as the state vector. I learnt a lot about electronics, robotics and programming while working on this project.[**[Code]**](https://github.com/nsidn98/One-Wheeled-Balancing-Robot)
 

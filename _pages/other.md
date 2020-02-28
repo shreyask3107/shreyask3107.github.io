@@ -29,7 +29,7 @@ I do like a lot of genres: ranging from rap to rock. My favorite artists include
 I also like theme songs and scores from Hans Zimmer, Ramin Djawadi , Brian Tyler ([F1 theme!](https://www.youtube.com/watch?v=8AYy-BcjRXg)), Ludwig G&ouml;ransson and Alan Silvestri.
     
 ## Language: ##
-I can speak [6 languages](https://drive.google.com/file/d/1BLh826hWjfB9WzqxdRMtBk1tdjcRABrI/view?usp=sharing) (and understand 7) and would like to learn more languages like Sanskrit, Italian and Spanish along with improving on Kannada, French and German.
+I can speak [6 languages](https://drive.google.com/file/d/1BLh826hWjfB9WzqxdRMtBk1tdjcRABrI/view?usp=sharing) (and understand 7) and would like to learn more languages like Sanskrit, Italian and Spanish along with improving upon Kannada, French and German.
 
 ## Sketching: ##
 A few of my [sketches](https://drive.google.com/drive/folders/10i5ru6oahtPOYvSR3Yadbabe0xIXm_x9?usp=sharing). Sketching has helped me a lot in appreciating the fine details (see: Ironman sketches).
