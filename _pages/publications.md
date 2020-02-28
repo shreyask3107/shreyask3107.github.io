@@ -17,4 +17,4 @@ author_profile: true
 
 
 ### Note:
-If any link does not work, feel free to email me to get the pdf.
+If any link doesn't work, feel free to email me to get the pdf.
