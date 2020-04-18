@@ -5,7 +5,7 @@ permalink: /posts/2020/04/acad_resources/
 tags:
   - academic resources
 ---
-### Compilation of resources I found useful while learning new topics.
+### A compilation of resources I found useful while learning new topics.
 
 I have listed them in the order I used it. Will keep on updating as and when I remember the resources I used.
 
