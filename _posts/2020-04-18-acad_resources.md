@@ -1,16 +1,13 @@
 ---
 title: 'Academic Resources'
-date: 2020-08-14
+date: 2020-04-18
 permalink: /posts/2020/04/acad_resources/
 tags:
   - academic resources
 ---
-<!-- # Compilation of resources I found useful while learning new topics -->
+# Compilation of resources I found useful while learning new topics.
 
-A compilation of resources I found useful while learning a new topic. Also, I am listing them in the order I used it.
-
-
-**Note:** Will keep on updating as and when I remember the resources I used.
+I have listed them in the order I used it. Will keep on updating as and when I remember the resources I used.
 
 ## Contents
 * Probabilty, Statistics and Information Theory
