@@ -1,11 +1,11 @@
 ---
 title: 'Academic Resources'
-date: 2012-08-14
+date: 2020-08-14
 permalink: /posts/2020/04/acad_resources/
 tags:
   - academic resources
 ---
-# List of resources I found useful
+<!-- # Compilation of resources I found useful while learning new topics -->
 
 A compilation of resources I found useful while learning a new topic. Also, I am listing them in the order I used it.
 
