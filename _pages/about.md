@@ -16,4 +16,5 @@ I interned with  TCS Research and Innovation Lab, Mumbai in the summer of 2019 w
 
 
 ## Contact Me ##
+****************************************
 I would be glad to have discussions on exciting ideas related to robotics, reinforcement learning and anything related to engineering and science! If you have any exciting ideas to discuss, please drop me an email.

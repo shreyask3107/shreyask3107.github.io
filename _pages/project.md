@@ -9,12 +9,14 @@ redirect_from:
 
 ## Robust Reinforcement Learning (2018)
 **Authors: Rishhanth Maanav V and Siddharth Nayak**
+
 ****************************************
 We implement two robust reinforcement learning algorithms: Robust Adversarial Reinforcement Learning (RARL) by Pinto et al. and Adversarial Robust Policy Learning (ARPL) by Mandlekar et al. and compare them with na&iuml;ve and vanilla reinforcement learning algorithms on different amounts of perturbations while testing.
 [[PDF]](http://nsidn98.github.io/files/RobustRL.pdf) [[Code]](https://github.com/nsidn98/Robust-Reinforcement-Learning)
 
 ## Hand Gesture Recognition for Soldier Support (2017-18)
-#### Author: Siddharth Nayak
+*Author: Siddharth Nayak*
+
 ****************************************
 I created a hand-gesture recognition glove which recognises the gestures given in this [link](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/gestures.jpg). This does not use computer vision and instead uses readings from sensors attached to the glove.
 [[PDF]](http://nsidn98.github.io/files/Gesture_Recognition.pdf) [[Documentation]](https://github.com/nsidn98/Gesture-Recognition/blob/master/README.md) [[Code]](https://github.com/nsidn98/Gesture-Recognition)
