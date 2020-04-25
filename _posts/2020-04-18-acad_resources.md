@@ -24,7 +24,7 @@ I have listed them in the order I used it. Will keep on updating as and when I r
 * AAAI-19 tutorial on [Introduction of Graph Neural Networks](https://jian-tang.com/files/AAAI19/aaai-grltutorial-part0-intro.pdf) 
 * [Blog](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef) on node2vec
 * [Lecture](https://www.youtube.com/watch?v=YrhBZUtgG4E) by Jure Leskovec on graph-node embeddings and the corresponding [slides](http://snap.stanford.edu/class/cs224w-2018/handouts/09-node2vec.pdf)
-* AAAI-19 [Tutorial] on graph-node embeddings
+* AAAI-19 [Tutorial](https://jian-tang.com/files/AAAI19/aaai-grltutorial-part1-nodereps.pdf) on graph-node embeddings
 * AAAI-19 [Tutorial](https://jian-tang.com/files/AAAI19/aaai-grltutorial-part2-gnns.pdf) on different types of graph neural networks
 * The final part of the above tutorial can be found [here](https://cs.mcgill.ca/~wlh/files/AAAI19_GRLTutorial.zip)
 * Python Library for graph neural networks: [DGL](https://www.dgl.ai/) for practical examples
