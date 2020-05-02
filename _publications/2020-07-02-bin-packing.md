@@ -14,3 +14,5 @@ Demo of boxes getting placed sequentially in 16 containers where each container 
 ![demo](https://media.giphy.com/media/lPGFRxTBxgtao3OI3a/giphy.gif)
 
 <!-- Recommended citation: Your Namesdas, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=vuy8oJHmtOg7LUHtjdY1k-B5CjSIsQ-mzVNm9KPAL0M&cl=ffffff&w=a"></script>

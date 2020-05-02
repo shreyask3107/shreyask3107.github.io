@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=vuy8oJHmtOg7LUHtjdY1k-B5CjSIsQ-mzVNm9KPAL0M&cl=ffffff&w=a"></script>
 
 I am a final year undergraduate student majoring in Electrical Engineering at Indian Institute of Technology Madras. I am currently working with 
 [Prof. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/) on improving object detection with reinforcement learning. I am
@@ -19,3 +18,6 @@ I interned with  TCS Research and Innovation Lab, Mumbai in the summer of 2019 w
 ## Contact Me ##
 ****************************************
 I would be glad to have discussions on exciting ideas related to robotics, reinforcement learning and anything related to engineering and science! If you have any exciting ideas to discuss, please drop me an email.
+
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=vuy8oJHmtOg7LUHtjdY1k-B5CjSIsQ-mzVNm9KPAL0M&cl=ffffff&w=a"></script>

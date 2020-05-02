@@ -33,3 +33,6 @@ I can speak [6 languages](https://drive.google.com/file/d/1BLh826hWjfB9WzqxdRMtB
 ****************************************
 ## Sketching: ##
 A few of my [sketches](https://drive.google.com/drive/folders/10i5ru6oahtPOYvSR3Yadbabe0xIXm_x9?usp=sharing). Sketching has helped me a lot in appreciating the fine details.
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=vuy8oJHmtOg7LUHtjdY1k-B5CjSIsQ-mzVNm9KPAL0M&cl=ffffff&w=a"></script>
+
