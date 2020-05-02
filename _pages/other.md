@@ -20,6 +20,7 @@ The pinnacle of motorsports! I have been watching F1 since my childhood and this
 ### Other sports I follow
 * Football: Liverpool and Bayern M&uuml;nchen
 * Tennis: Roger Federer and Novak Djokovic (I know they are rivals!)
+
 ****************************************
 ## Music: ##
 ### Instruments
@@ -27,9 +28,11 @@ I learned to play the harmonium from my grandfather and then later by attending 
 ### Bands/Artists
 I do like a lot of genres: ranging from rap to rock. My favorite artists include Coldplay, Imagine Dragons, Linkin Park, One Republic, The Score, The Script, Led Zeppelin, Guns N' Roses and Eminem.
 I also like theme songs and scores from Hans Zimmer, Ramin Djawadi , Brian Tyler ([F1 theme!](https://www.youtube.com/watch?v=8AYy-BcjRXg)), Ludwig G&ouml;ransson and Alan Silvestri.
+
 **************************************** 
 ## Languages: ##
 I can speak [6 languages](https://drive.google.com/file/d/1BLh826hWjfB9WzqxdRMtBk1tdjcRABrI/view?usp=sharing) (and understand 7) and would like to learn more languages like Sanskrit, Italian and Spanish along with improving upon Kannada, French and German.
+
 ****************************************
 ## Sketching: ##
 A few of my [sketches](https://drive.google.com/drive/folders/10i5ru6oahtPOYvSR3Yadbabe0xIXm_x9?usp=sharing). Sketching has helped me a lot in appreciating the fine details.
