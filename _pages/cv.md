@@ -45,4 +45,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=vuy8oJHmtOg7LUHtjdY1k-B5CjSIsQ-mzVNm9KPAL0M&cl=ffffff&w=a"></script>
