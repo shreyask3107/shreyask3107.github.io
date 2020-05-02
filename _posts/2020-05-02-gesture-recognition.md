@@ -10,13 +10,20 @@ tags:
 Recognition of standard army hand gestures.
 Soldiers communicate with each other through gestures. But sometimes those gestures are not visible due to obstructions or poor lighting. For that purpose an instrument is required to record the gesture and send it to the fellow soldiers. The two options for gesture recognition are through Computer Vision and through some sensors attached to the hands.The first option is not viable in this case as proper lighting is required for recognition through Computer Vision. Hence the second option of using sensors for recognition has been used. We present a system which recognises the gestures shown below:
 
-![Gestures](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/gestures.jpg)
+<p align="center">
+  <img src="https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/gestures.jpg" width="400"/>
+</p>
+
 
 ## Construction
 The given gestures include motions of fingers, wrist and elbow.Hence to detect any changes in them we have used one flex sensors which detects the amount by which it has been bent at each of these joints. To take into account for the dynamic gestures an Inertial Measurement Unit(IMU-MPU-9250) was used.The parameters used from the IMU are Acceleration,Gyroscopic acceleration and angles in all three axes.An Arduino Mega was used to receive the signals from the sensors and send it to the processor.
 
 ## Hardware:
-![Image of the glove](https://github.com/nsidn98/Gesture-Recognition/blob/master/FullSizeRender.jpg)
+<p align="center">
+  <img src="https://github.com/nsidn98/Gesture-Recognition/blob/master/FullSizeRender.jpg" width="400"/>
+</p>
+
+
 
 ## Things Required:
 * Flex Sensors x 7
@@ -31,7 +38,10 @@ The given gestures include motions of fingers, wrist and elbow.Hence to detect a
 
 
 ## Circuit(Layman):
-![Circuit](https://github.com/nsidn98/Gesture-Recognition/blob/master/gesture%20recognition_bb.jpg)
+<p align="center">
+  <img src="https://github.com/nsidn98/Gesture-Recognition/blob/master/gesture%20recognition_bb.jpg" width="400"/>
+</p>
+
 
 
 ## Nomenclature of data:
@@ -91,10 +101,10 @@ The data collected would vary according to the gesture.
 ### Static Gesture:
 If it is a static gesture, then the data collected would be like:
 ```
-96 520 507 236 181 221 162 9.86	-62.82 3.73 14411.55 1251.89 7263.08 140.94 34.29 31.60
-96 520 506 236 181 222 162 9.83	-62.78 3.70 14402.97 1244.89 7267.33 150.29 33.63 33.22
-95 520 506 235 181 221 161 9.87	-62.76 3.69 14385.42 1241.65 7280.36 169.43 16.54 30.71
-96 520 507 235 181 221 161 9.93	-62.75 3.71 14376.95 1244.77 7301.54 184.90 -15.83 29.67
+96 520 507 236 181 221 162 9.86	 -62.82 3.73 14411.55 1251.89 7263.08 140.94 34.29 31.60
+96 520 506 236 181 222 162 9.83	 -62.78 3.70 14402.97 1244.89 7267.33 150.29 33.63 33.22
+95 520 506 235 181 221 161 9.87	 -62.76 3.69 14385.42 1241.65 7280.36 169.43 16.54 30.71
+96 520 507 235 181 221 161 9.93	 -62.75 3.71 14376.95 1244.77 7301.54 184.90 -15.83 29.67
 96 520 507 236 182 222 161 10.05 -62.81 3.74 14375.51 1252.93 7297.46 182.21 -31.64 37.64
 ```
 The size of the data captured would `16 x t` where `t` is the amount of time for which the button is pressed. Also, in static gestures we just use the first 10 features(reason for it is given below). So here `t` is variable which means that we have a sequential data. This rings bells for using a `Recurrent Neural Network(RNN)` but using it means we need more data and higher processing power which certainly mean that it would not be mobile. So we have to use some clever trick to handle this sequential data. So we use `SVMs(Support Vector Machine)` which is often called a poor man's neural network for classification. This is a method which uses neat and elegant methods to come up with maximal margin boundaries or gutters as Dr.Patrick Winston likes to call it. So here we collect `10 x t` data for each gesture and then sample 50 points out of it giving us a `10 x 50 ` vector. If `t<50` then we use extrapolation to make it of size `10 x 50`. Now this vector is linearised and fed to train on an SVM with Radial Basis Function Kernel(Gaussian). The training is super-fast compared to Neural Nets and certainly RNNs.
@@ -111,9 +121,12 @@ As visible in the Principal Component Analysis(PCA) of the datapoints they are p
 Another point to be noteed was that the PCA shows us that there is a lot of room to add more gestures as the clusters are quite far apart.
 
 When only the above said features are used.
-![PCA static](https://github.com/nsidn98/Gesture-Recognition/blob/master/PCA/Figure_1.png)
-When all features are used:
-![PCA static](https://github.com/nsidn98/Gesture-Recognition/blob/master/PCA/Figure_1%3D.png)
+<p align="center">
+  <img src="https://github.com/nsidn98/Gesture-Recognition/blob/master/PCA/Figure_1.png" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/nsidn98/Gesture-Recognition/blob/master/PCA/Figure_1%3D.png" width="400"/>
+</p>
 Each color(cluster) represents a gesture.
 
 ### Sampling Method
@@ -121,6 +134,27 @@ In plots below sampling makes the data points of the same gesture have a same sh
 
 One of the samples for gesture `door`|  Another sample for gesture `door`
 :-------------------------:|:-------------------------:
+<p align="center">
+  <img src="https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/G1.png" width="400"/>
+</p> 
+|
+<p align="center">
+  <img src="https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/G2.png" width="400"/>
+</p>
+
+One of the samples for gesture `window`|  Another sample for gesture `window`
+:-------------------------:|:-------------------------:
+<p align="center">
+  <img src="https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/G3.png" width="400"/>
+</p>
+|
+<p align="center">
+  <img src="https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/G4.png" width="400"/>
+</p>
+
+
+
+<!-- :-------------------------:|:-------------------------:
 ![](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/G1.png)  |  ![](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/G2.png)
 
 One of the samples for gesture `window`|  Another sample for gesture `window`
@@ -128,4 +162,4 @@ One of the samples for gesture `window`|  Another sample for gesture `window`
 ![](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/G3.png)  |  ![](https://github.com/nsidn98/Gesture-Recognition/blob/master/Images/G4.png)
 
 
- 
+  -->
