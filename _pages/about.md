@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=vuy8oJHmtOg7LUHtjdY1k-B5CjSIsQ-mzVNm9KPAL0M&cl=ffffff&w=a"></script>
 
 I am a final year undergraduate student majoring in Electrical Engineering at Indian Institute of Technology Madras. I am currently working with 
 [Prof. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/) on improving object detection with reinforcement learning. I am
