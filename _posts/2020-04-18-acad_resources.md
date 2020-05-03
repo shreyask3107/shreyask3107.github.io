@@ -9,7 +9,6 @@ tags:
 
 I have listed them in the order I used it. Will keep on updating as and when I remember the resources I used.
 
-![fsd](https://github.com/nsidn98/nsidn98.github.io/blob/master/images/gestureRecogImages/G1.png)
 
 ## Contents
 * Probabilty, Statistics and Information Theory
