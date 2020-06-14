@@ -18,6 +18,10 @@ A list of all the posts and pages found on the site. For you robots out there is
 {% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
+{% for post in site.posts %}
+<p><h1>{{ post.title }}</h1></p>
+<img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
+{% endfor %}
 
 {% capture written_label %}'None'{% endcapture %}
 

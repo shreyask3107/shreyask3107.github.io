@@ -2,6 +2,7 @@
 title: 'My Graduate School Application'
 date: 2020-04-18
 permalink: /posts/2020/06/grad_school/
+image: /images/graduate-school-applications.jpg
 tags:
   - graduate school
   - MIT
