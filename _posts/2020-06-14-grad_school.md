@@ -9,10 +9,6 @@ tags:
 ---
 # My Graduate School application
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/images/graduate-school-applications.jpg" width="500"/>
-</p>
-
 In this blog, I would be describing my journey during the application process for graduate schools. This journey ranged from  listening  to [Eye of the Tiger](https://www.youtube.com/watch?v=btPJPFnesV4&list=RDo1tj2zJ2Wvg&index=8) by Survivor while preparing the application to listening [Lose Yourself](https://www.youtube.com/watch?v=_Yhyp-_hX2s)
 by Eminem during the application submissions to listening [Don't You Worry Child](https://www.youtube.com/watch?v=1y6smkh6c-0) by Swedish House Mafia
 when the rejection letters came in, until I received the acceptance letter from Massachusetts Institute of Technology. 
@@ -26,6 +22,10 @@ A: I have tried to not repeat the content from those blogs and instead tried to 
 
 
 **An important disclaimer: Please take the advice with a pinch of salt (especially the GRE stuff!) as I did stuff which fit me the best and may not fit you well. So if you feel that something is inapplicable, then trust yourself and see what's best for you. Also, this is going to be a pretty long post.**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/images/graduate-school-applications.jpg" width="500"/>
+</p>
 
 ## A gist of the application process: 
 For those who do not have enough time to read:
