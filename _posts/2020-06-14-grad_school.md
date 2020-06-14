@@ -24,7 +24,7 @@ A: I have tried to not repeat the content from those blogs and instead tried to 
 **An important disclaimer: Please take the advice with a pinch of salt (especially the GRE stuff!) as I did stuff which fit me the best and may not fit you well. So if you feel that something is inapplicable, then trust yourself and see what's best for you. Also, this is going to be a pretty long post.**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/images/graduate-school-applications.jpg" width="500"/>
+  <img src="https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/images/grad_app.jpg" width="500"/>
 </p>
 
 ## A gist of the application process: 
