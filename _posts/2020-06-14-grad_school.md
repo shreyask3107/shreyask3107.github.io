@@ -7,8 +7,9 @@ tags:
   - MIT
 ---
 # My Graduate School application
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/images/graduate-school-applications.jpg" width="300"/>
+  <img src="https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/images/graduate-school-applications.jpg" width="500"/>
 </p>
 
 In this blog, I would be describing my journey during the application process for graduate schools. This journey ranged from  listening  to [Eye of the Tiger](https://www.youtube.com/watch?v=btPJPFnesV4&list=RDo1tj2zJ2Wvg&index=8) by Survivor while preparing the application to listening [Lose Yourself](https://www.youtube.com/watch?v=_Yhyp-_hX2s)
