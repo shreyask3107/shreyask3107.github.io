@@ -76,6 +76,7 @@ Also, if you do not have a very high GPA, do not let it stop you from applying t
 
 
 ## The colleges I applied:
+
 | College         | Department        | Program  | 
 | :-------------: |:-------------:| :-----:| 
 | Massachusetts Institute of Technology|[AeroAstro](https://aeroastro.mit.edu/graduate-program/fields-study)|MS*|
@@ -89,15 +90,7 @@ Also, if you do not have a very high GPA, do not let it stop you from applying t
 *-direct PhD is not available for students with only a Bachelors Degree. Have to convert to PhD after finishing MS
 
 +-can apply to more than one program (MS and PhD in my case) with some extra fees 
-<!---
-* Massachusetts Institute of Technology, AeroAstro Department, MS (direct PhD not available for students with only a Bachelors Degree)
-* Carnegie Mellon University, Robotics Institute, MS+PhD
-* University of California Berkeley, Mechanical Engineering, PhD
-* University of Pennsylvania, Electrical Systems Engineering (ESE), PhD
-* Stanford University, AeroAstro, MS
-* Georgia Institute of Technology, Robotics, PhD
-* University of Southern California, Computer Science, PhD
---> 
+
 After all the applications were submitted, my friends told me that the number of colleges I applied to is quite less and the list does not have any "*safe school*" which was actually true. Because I was applying in a diverse set of departments, I had to find relevant labs, go through their research as well as read the papers published by them. This took up a lot of time and thus I could not go through the labs in other colleges. Although, I wouldn't recommend **not** applying to safe schools as this just makes you anxious once your friends start getting admits and you do not hear back from any.
 
 <p align="center">
