@@ -6,8 +6,7 @@ author_profile: true
 redirect_from:
   - /extracurricular-activities
 ---
-# The first principle is that you must not fool yourself and you are the easiest person to fool -Richard Feynman
-
+## The first principle is that you must not fool yourself and you are the easiest person to fool -Richard Feynman
 
 # Interests and Hobbies:
 ## Sports: ##
@@ -31,10 +30,19 @@ I also like theme songs and scores from Hans Zimmer, Ramin Djawadi , Brian Tyler
 
 **************************************** 
 ## Languages: ##
-I can speak [6 languages](https://drive.google.com/file/d/1BLh826hWjfB9WzqxdRMtBk1tdjcRABrI/view?usp=sharing) (and understand 7) and would like to learn more languages like Sanskrit, Italian and Spanish along with improving upon Kannada, French and German.
+I can speak 6 languages (and understand 7):
+* English
+* German
+* Konkani
+* Marathi
+* Hindi
+* Kannada
+* French
+
+I would like to learn more languages like Sanskrit, Italian and Spanish along with improving upon Kannada, French and German.
 
 ****************************************
 ## Sketching: ##
-A few of my [sketches](https://drive.google.com/drive/folders/10i5ru6oahtPOYvSR3Yadbabe0xIXm_x9?usp=sharing). Sketching has helped me a lot in appreciating the fine details.
+A few of my [sketches](https://drive.google.com/drive/folders/10i5ru6oahtPOYvSR3Yadbabe0xIXm_x9?usp=sharing). Sketching has helped me a lot in appreciating the finer details in many of the art pieces as well as music.
 
 

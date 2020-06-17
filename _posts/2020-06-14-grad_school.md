@@ -1,5 +1,5 @@
 ---
-title: 'My Graduate School Application'
+title: 'How I got into Graduate School'
 date: 2020-04-18
 permalink: /posts/2020/06/grad_school/
 image: /images/graduate-school-applications.jpg
@@ -7,7 +7,7 @@ tags:
   - graduate school
   - MIT
 ---
-# My Graduate School application
+# How I got into Graduate School
 
 
 <p align="center">
