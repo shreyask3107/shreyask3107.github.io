@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Tech in Electrical Engineering, Indian Institute of Technology Madras, 2020
+* SM, Aeronautics and Astronautics, Massachusetts Institute of Technology
+* B.Tech, Electrical Engineering, Indian Institute of Technology Madras, 2020
 
 Work experience
 ======
@@ -36,8 +37,6 @@ Skills
 * Reinforcement Learning
 * Python
   * PyTorch
-  * TensorFlow
-* Add Skills
 
 Publications
 ======
