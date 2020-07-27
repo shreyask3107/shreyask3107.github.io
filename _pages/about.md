@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year masters student in the AeroAstro Department at the Massachusetts Institute of Technology. I am
+I am a graduate student in the AeroAstro Department at the Massachusetts Institute of Technology. I am
 broadly interested in Robotics, Reinforcement Learning and Autonomous Control and I want to contribute something to the world by making new technological products.
 
 I did my Bachelors degree in the [Electrical Engineering Department](http://www.ee.iitm.ac.in/) at the [Indian Institute of Technology Madras](https://www.iitm.ac.in/). I worked on improving object detection with reinforcement learning for my Bachelors Thesis under [Prof. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/).
