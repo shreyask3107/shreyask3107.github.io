@@ -7,7 +7,7 @@ tags:
   - graduate school
   - MIT
 ---
-# How I got into Graduate School
+## How I got into MIT
 
 
 <p align="center">
