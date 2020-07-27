@@ -83,12 +83,12 @@ google_analytics: UA—163839465-1
 author:
   name             : "Siddharth Nayak"
   avatar           : "me.jpeg"
-  bio              : "Final year undergrad at IIT Madras majoring in Electrical Engineering"
-  location         : "Chennai, India"
+  bio              : "Masters Student at MIT"
+  location         : "Cambridge, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "ee16b073@smail.iitm.ac.in"
+  googlescholar    : https://scholar.google.com/citations?hl=en&authuser=1&user=XcgZhMwAAAAJ #"http://yourfullgooglescholarurl.com"
+  email            : "sidnayak@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
