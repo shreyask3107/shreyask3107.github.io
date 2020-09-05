@@ -10,12 +10,13 @@ redirect_from:
 
 # Interests and Hobbies:
 ## Sports: ##
-### Cricket
-It is the most followed sport in India and almost every kid in India plays cricket atleast once in their childhood. In my case, I started playing with a leather ball when I was in my 7th grade. Cricket was a stress-buster during my schooling years.
+### Formula 1
+The pinnacle of motorsports! I have been watching F1 since my childhood and this was one of the things which motivated me to take up engineering. The amount of engineering which goes into making the cars faster even on tricky street-circuits like Monaco has always fascinated me. My favourite constructor has been the [silver arrows](https://www.mercedesamgf1.com/en/) ever since they (re-)entered F1 in 2010 with Michael Schumacher as one of their drivers.  Before that I used to like McLaren Mercedes when they had Hamilton and Alonso as their drivers.
 ### Water Polo and Swimming
 A sport I learned after coming to IIT Madras in my second year. Fell in love with the speed of the game. A difficult sport to learn (Even basic floating was hard initially!). Water Polo has helped me improve my stamina and endurance. 
-### Formula 1
-The pinnacle of motorsports! I have been watching F1 since my childhood and this was one of the things which motivated me to take up engineering. The amount of engineering which goes into making the cars faster even on tricky street-circuits like Monaco has always fascinated me. My favourite constructor has been the [silver arrows](https://www.mercedesamgf1.com/en/) ever since they (re-)entered F1 in 2010 with Michael Schumacher as one of their drivers. 
+### Cricket
+Have been playing this since my childhood. Represented a few teams at the competitive level. Transitioned from a spin-bowler to an opening batsman.
+
 ### Other sports I follow
 * Football: Liverpool and Bayern M&uuml;nchen
 * Tennis: Roger Federer and Novak Djokovic (I know they are rivals!)
@@ -23,10 +24,10 @@ The pinnacle of motorsports! I have been watching F1 since my childhood and this
 ****************************************
 ## Music: ##
 ### Instruments
-I learned to play the harmonium from my grandfather and then later by attending classes. This eventually led me to learn to play the piano. This change was initially quite difficult as one plays a harmonium with only one hand (right in my case) whereas piano is played with both hands. I would definitely like to learn a few other instruments like violin.
+I learned to play the harmonium from my grandfather and then later by attending classes. This eventually led me to learn to play the piano. This change was initially quite difficult as one plays a harmonium with only one hand (right in my case) whereas piano is played with both hands. I would definitely like to learn a few other instruments like violin(which is considered to be hard:P).
 ### Bands/Artists
-I do like a lot of genres: ranging from rap to rock. My favorite artists include Coldplay, Imagine Dragons, Linkin Park, One Republic, The Score, The Script, Led Zeppelin, Guns N' Roses and Eminem.
-I also like theme songs and scores from Hans Zimmer, Ramin Djawadi , Brian Tyler ([F1 theme!](https://www.youtube.com/watch?v=8AYy-BcjRXg)), Ludwig G&ouml;ransson and Alan Silvestri.
+My playlist has genres ranging from rap to classical music. My favorite modern-artists include Coldplay, Imagine Dragons, Linkin Park, One Republic, TØP, The Score, The Script, Led Zeppelin, Guns N' Roses, RHCP, Eminem and many more. 
+Along with this, I also like theme songs and scores from Hans Zimmer, Ramin Djawadi , Brian Tyler ([F1 theme!](https://www.youtube.com/watch?v=8AYy-BcjRXg)), Ludwig G&ouml;ransson, Alan Silvestri. I also listen to Ludovico Einaudi, Mozart, Beethoven.
 
 **************************************** 
 ## Languages: ##
@@ -39,10 +40,11 @@ I can speak 6 languages (and understand 7):
 * Kannada
 * French
 
-I would like to learn more languages like Sanskrit, Italian and Spanish along with improving upon Kannada, French and German.
+I would like to learn more languages like Sanskrit, Italian and Spanish along with improving upon Kannada and French.
 
 ****************************************
 ## Sketching: ##
+I generally like drawing fictional characters.
 A few of my [sketches](https://drive.google.com/drive/folders/10i5ru6oahtPOYvSR3Yadbabe0xIXm_x9?usp=sharing). Sketching has helped me a lot in appreciating the finer details in many of the art pieces as well as music.
 
 

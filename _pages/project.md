@@ -6,6 +6,10 @@ author_profile: true
 redirect_from:
   - /extracurricular-activities
 ---
+## PyThor (2020)
+*Author: Siddharth Nayak*
+
+A side project of mine where I try to combine PyTorch, Pytorch-lightning, Telegrad and MLFlow for ML-based projects. I took this up when I was in lockdown due to the pandemic and was waiting for my graduate school to start. The pytorch-lightning module takes care of the boilerplate code in running experiments. Telegrad gives live updates(when requested) about the status of the training losses along with plots on your mobile so that you can monitor your jobs while chilling. You can also chage the learning rates from your mobile. MLFlow manages the experiments so that each experiment can be reproduced by logging in all the hyper-parameters used. Have provided some template codes for linear, convolutional and graph networks along with some reinforcement learning examples. [[Code]](https://github.com/nsidn98/PyThor)
 
 ## Robust Reinforcement Learning (2018)
 *Authors: Rishhanth Maanav V and Siddharth Nayak*
@@ -26,7 +30,7 @@ We created an automatic waste segregation dustbin which classifies the waste int
 [[Documentation]](http://nsidn98.github.io/files/AWS.pdf)
 
 
-## Self- Balancing Robot (2016-17)
+## Self-Balancing Robot (2016-17)
 *Project Members: Siddharth Nayak, Rahul Chakwate, Adil Shaikh, Anuj Sindgi, Atharva Rajadnya*
 
 Self-Balancing Robot was the first tech-project I worked on. It is basically a one wheeled robot which balances itself to stay upright. It is like the real-life version of the Cartpole from OpenAI Gym. The robot balances itself using a tuned Proportional-Integral-Derivative(PID) Controller. The angles of inclination and the angular velocities are given as the state vector. I learnt a lot about electronics, robotics and programming while working on this project.[[Code]](https://github.com/nsidn98/One-Wheeled-Balancing-Robot)
