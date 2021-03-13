@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a graduate student in the AeroAstro Department at Massachusetts Institute of Technology. I am
-broadly interested in Robotics, Reinforcement Learning and Autonomous Control and I want to contribute something to the world by making new technological products.
+I am a graduate student in the AeroAstro Department at the Massachusetts Institute of Technology. I am
+broadly interested in Robotics, Reinforcement Learning and Autonomous Control.
 
-I did my Bachelors degree in the [Electrical Engineering Department](http://www.ee.iitm.ac.in/) at [Indian Institute of Technology Madras](https://www.iitm.ac.in/). I worked on improving object detection with reinforcement learning for my Bachelors Thesis under [Prof. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/).
+I did my Bachelors degree in the [Electrical Engineering Department](http://www.ee.iitm.ac.in/) at the [Indian Institute of Technology Madras](https://www.iitm.ac.in/). I worked on improving object detection with reinforcement learning for my Bachelors Thesis under [Prof. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/).
 
-I interned with  TCS Research and Innovation Lab, Mumbai in the summer of 2019 where I worked with [Dr. Harshad Khadilkar](https://sites.google.com/view/harshad/home) on using reinforcement learning for the online version of 3D bin-packing. I spent the summer of 2018 as a research intern at Daimler AG, Sindelfingen, Germany where I worked with Dr. Hannes Gorniaczyk on finding the optimal camera parameters to capture images such that the object detection performance of pre-trained networks in optimised.
+I interned at TCS Research and Innovation Lab, Mumbai in the summer of 2019 where I worked with [Dr. Harshad Khadilkar](https://sites.google.com/view/harshad/home) on using reinforcement learning for the online version of 3D bin-packing. I spent the summer of 2018 as a research intern at Daimler AG, Sindelfingen, Germany where I worked with [Dr. Hannes Gorniaczyk](https://de.linkedin.com/in/gorniaczyk) on finding the optimal camera parameters to capture images such that the object detection performance of pre-trained networks in optimised.
 
 
 ## Contact Me ##
