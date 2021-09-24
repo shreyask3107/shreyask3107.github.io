@@ -22,14 +22,15 @@ Have been playing this since my childhood. Represented a few teams at the compet
 * Football: Liverpool and Bayern M&uuml;nchen (although I prefer Liverpool over Bayern when they compete in Champions League).
 * Tennis: Roger Federer and Novak Djokovic (I know they are rivals!)
 
-****************************************
 ## Music: ##
 ### Instruments
 I learnt to play the harmonium from my grandfather and then later by attending classes. This eventually led me to learn to play the piano. This change was initially quite difficult as one plays a harmonium with only one hand (right in my case) whereas piano is played with both hands. I would definitely like to learn a few other instruments like violin and guitar (bass guitars included).
+
 ### Bands/Artists
 My playlist has genres ranging from rap to classical music. My favorite artists include Pink Floyd, Led Zeppelin, The Beatles, Guns N' Roses, Iron Maiden, Queen, Eminem and many more. 
 Along with this, I also like theme songs and scores from Hans Zimmer, Ramin Djawadi , Brian Tyler ([F1 theme!](https://www.youtube.com/watch?v=8AYy-BcjRXg)), Ludwig G&ouml;ransson, Alan Silvestri and John Williams. I also like listening to Ludovico Einaudi, Wolfgang Mozart, Ludwig van Beethoven, John Bach, Anotonio Vivaldi.
 **************************************** 
+
 ## Languages: ##
 I can speak 6 languages (and understand 7):
 * English
@@ -40,7 +41,7 @@ I can speak 6 languages (and understand 7):
 * Kannada
 * French
 
-I would like to learn more languages like Sanskrit, Italian and Spanish along with improving upon Kannada and French.
+I would like to learn more languages like Sanskrit, Italian and Spanish along with improving upon Kannada and French and German.
 
 ****************************************
 ## Sketching: ##

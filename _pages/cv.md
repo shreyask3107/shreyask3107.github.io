@@ -16,6 +16,11 @@ Education
 
 Work experience
 ======
+* Fall 2020-Present: Graduate Research Assistant
+  * DINaMo Lab, Massachusetts Institute of Technology
+  * Duties included: Using reinforcement learning for scheduling problems; Fairness-centric control of large-scale mixed-competitive multiagent navigation systems.
+  * Advisor: [Prof. Hamsa Balakrishnan](https://www.mit.edu/~hamsa/index.html)
+
 * Summer 2019: Research Intern
   * TCS Research and Innovation Lab, Mumbai, India
   * Duties included: Work on using reinforcement learning for the online version of the 3D bin-packing problem 
@@ -37,6 +42,20 @@ Skills
 * Reinforcement Learning
 * Python
   * PyTorch
+  * TensorFlow
+* C, C++
+* ROS (Robot Operating Software)
+
+Relevant Coursework
+======
+* Visual Navigation for Autonomous Vehicles
+* Representation, Inference and Reasoning in AI 
+* Computational Sensorimotor Learning
+* Intelligent Robotic Manipulation
+* Underactuated Robotics
+* Principles of Autonomy and Decision Making
+* Reinforcement Learning, 
+* Advanced Topics in Artificial Intelligence
 
 Publications
 ======
@@ -44,3 +63,5 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
+For a detailed CV/resume please email me at `sidnayak at mit dot edu`
