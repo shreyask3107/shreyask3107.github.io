@@ -2,7 +2,7 @@
 title: "A Generalized Reinforcement Learning Algorithm for Online 3D Bin-Packing"
 collection: publications
 permalink: /publication/2020-07-02-bin-packing
-date: 2020-07-02
+date: 2020-02-07
 venue: 'Generalization in Planning (GenPlan) workshop at AAAI'
 ---
 Authors: Richa Verma, Aniruddha Singhal, Harshad Khadilkar, Ansuma Basumatary, **Siddharth Nayak**, Harsh Vardhan Singh, Swagat Kumar and Rajesh Sinha
