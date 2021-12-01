@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a graduate student in the AeroAstro Department at the Massachusetts Institute of Technology. I am
-broadly interested in Robotics, Reinforcement Learning and Autonomous Control.
+I am a SM+PhD student in the AeroAstro Department at the Massachusetts Institute of Technology. My research interest lies at the intersection of multi-agent reinforcement learning, graph neural networks, control and optimization approaches and their applications to autonomous control and navigation, collision avoidance, motion prediction, interaction modeling, sequential decision making and state estimation for intelligent autonomous systems (e.g., autonomous vehicles, mobile robots). In particular, my current research focuses on autonomous navigation/path-planning for multi-agent, multi-team systems in mixed competitive-cooperative settings and uncertain, dynamically evolving environments.
 
-I did my Bachelors degree in the [Electrical Engineering Department](http://www.ee.iitm.ac.in/) at the [Indian Institute of Technology Madras](https://www.iitm.ac.in/). I worked on improving object detection with reinforcement learning for my Bachelors Thesis under [Prof. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/).
+I did my undergrad at [Indian Institute of Technology Madras](https://www.iitm.ac.in/)  in the [Electrical Engineering Department](http://www.ee.iitm.ac.in/). I worked on improving object detection with reinforcement learning for my Bachelors Thesis and was advised by [Prof. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/).
 
 I interned at TCS Research and Innovation Lab, Mumbai in the summer of 2019 where I worked with [Dr. Harshad Khadilkar](https://sites.google.com/view/harshad/home) on using reinforcement learning for the online version of 3D bin-packing. I spent the summer of 2018 as a research intern at Daimler AG, Sindelfingen, Germany where I worked with [Dr. Hannes Gorniaczyk](https://de.linkedin.com/in/gorniaczyk) on finding the optimal camera parameters to capture images such that the object detection performance of pre-trained networks in optimised.
 
