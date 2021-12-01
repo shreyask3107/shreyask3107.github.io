@@ -1,7 +1,7 @@
 ---
 title: "A Generalized Reinforcement Learning Algorithm for Online 3D Bin-Packing"
 collection: publications
-permalink: /publication/2020-07-02-bin-packing
+permalink: /publication/packman
 date: 2020-02-07
 venue: 'AAAI Workshops'
 ---
