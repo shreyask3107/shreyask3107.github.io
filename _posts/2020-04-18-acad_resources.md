@@ -41,4 +41,10 @@ I have listed them in the order I used it. Will keep on updating as and when I r
 * Survey [paper](https://arxiv.org/pdf/1911.10635.pdf) on MARL to get an overview of different algorithms
 * AAMAS [tutorial](https://sites.google.com/site/aamas2013marltutorial/slides) on MARL
 
+## Implementational stuff
+* Tips and Tricks for implementing RL algorithms [blog](https://agents.inf.ed.ac.uk/blog/reinforcement-learning-implementation-tricks/)
+* Never create a torch.tensor from an existing container of tensors [blog](https://praveenp.com/pytorch/2018/05/04/pytorch-never-create-tensor-from-variable.html)
+* Using PyTorch + NumPy? You're making a mistake. [blog](https://tanelp.github.io/posts/a-bug-that-plagues-thousands-of-open-source-ml-projects/)
+* The 32 Implementation Details of Proximal Policy Optimization (PPO) Algorithm [blog](https://costa.sh/blog-the-32-implementation-details-of-ppo.html)
+
 
