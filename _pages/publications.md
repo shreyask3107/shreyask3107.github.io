@@ -16,7 +16,5 @@ author_profile: true
 {% endfor %}
 
 
-### Note:
-****************************************
-If any link doesn't work, feel free to email me to get the pdf.
+### Under Construction
 
