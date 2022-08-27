@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Siddharth Nayak"
+locale                   : "en-IN"
+title                    : "Shreyas Kulkarni"
 title_separator          : "-"
-name                     : &name "Siddharth Nayak's Website"
+name                     : &name "Shreyas Kulkarni's Website"
 description              : &description "personal description"
-url                      : https://nsidn98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shreyask3107.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nsidn98/nsidn98.github.io"
+repository               : "shreyask3107/shreyask3107.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -23,7 +23,7 @@ talkmap_link             : false #change to true to add link to talkmap on talks
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "nsidn98"
+    shortname            : "shreyask3107"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -81,14 +81,14 @@ google_analytics: UA—163839465-1
 
 # Site Author
 author:
-  name             : "Siddharth Nayak"
+  name             : "Shreyas Kulkarni"
   avatar           : "siddharth_nayak.jpg"
-  bio              : "Graduate Student at Massachusetts Institute of Technology"
-  location         : "Cambridge, MA"
+  bio              : "Undergraduate Student at Indian Institute of Technology, Madras"
+  location         : "Chennai, IN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : https://scholar.google.com/citations?hl=en&authuser=1&user=XcgZhMwAAAAJ #"http://yourfullgooglescholarurl.com"
-  email            : "sidnayak@mit.edu"
+  googlescholar    : https://scholar.google.com/citations?hl=en&user=iTau4uoAAAAJ #"http://yourfullgooglescholarurl.com"
+  email            : "shreyas.kulkarni@smail.iitm.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,17 +97,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nsidn98"
+  github           : "shreyask3107"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/nsidn98/"
+  linkedin         : "https://www.linkedin.com/in/shreyas-kulkarni-551798188/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 8421999/nsidn98
+  stackoverflow    : #8421999/nsidn98
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
