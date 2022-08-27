@@ -5,12 +5,12 @@ main:
 
   - title: "Research Experience"
     url: /research_experience/    
-
-  - title: "Courses"
-    url: /courses/
     
   - title: "Projects"
     url: /projects/
-    
+
+  - title: "Courses"
+    url: /courses/
+
   - title: "Paper Summaries"
     url: /paper_summaries/
