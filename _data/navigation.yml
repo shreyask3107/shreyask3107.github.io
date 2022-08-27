@@ -3,18 +3,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /project/    
+  - title: "Research Experience"
+    url: /research_experience/    
 
-  - title: "Blog"
-    url: /year-archive/
+  - title: "Courses"
+    url: /courses/
 
   - title: "Paper Summaries"
     url: /paper_summaries/
     
-  - title: "CV"
-    url: /cv/
-
-  - title: "Other"
-    url: /other/
+  - title: "Projects"
+    url: /projects/
     
