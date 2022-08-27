@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to Shreyas' website"
+title: "Shreyas Kulkarni"
 excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a final year B.Tech. undergraduate student at the Indian Institute of Technology, Madras. My research interest lies at the intersection of deep learning, computer vision and reinforcement learning approaches and their applications to domain adaptation, semantic segmentation, omni directional neural radiance fields, video denoising and robotic control. 
+I am a senior undergraduate student at the Indian Institute of Technology, Madras. My research interest lies at the intersection of deep learning, computer vision and reinforcement learning approaches and their applications to domain adaptation, semantic segmentation, omni directional neural radiance fields, video denoising and robotic control. 
 
 
 <!---
