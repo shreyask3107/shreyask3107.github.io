@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Courses"
+permalink: /courses/
+author_profile: true
+---
+
+
+
 Below are some exciting courses I have credited during my undergrad (until Semester 7).
 
 ### Artificial Intelligence/Machine Learning:
