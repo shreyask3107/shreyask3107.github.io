@@ -1,7 +1,7 @@
 ---
 title: "CrackSeg9k: A Collection and Benchmark for Crack Segmentation Datasets and Frameworks"
 collection: publications
-permalink: /publications/crackseg9k
+permalink: /publication/crackseg9k
 date: 2022-08-27
 venue: 'European Conference on Computer Vision Workshops'
 ---
@@ -9,3 +9,5 @@ Authors: **Shreyas Kulkarni**, Shreyas Singh, Dhananjay Balakrishnan, Siddharth 
 
 [[arXiv]](https://arxiv.org/abs/2208.13054)[[GitHub]](https://github.com/Dhananjay42/crackseg9k)
 The detection of cracks is a crucial task in monitoring structural health and ensuring structural safety. The manual process of crack detection is time-consuming and subjective to the inspectors. Several researchers have tried tackling this problem using traditional Image Processing or learning-based techniques. However, their scope of work is limited to detecting cracks on a single type of surface (walls, pavements, glass, etc.). The metrics used to evaluate these methods are also varied across the literature, making it challenging to compare techniques. This paper addresses these problems by combining previously available datasets and unifying the annotations by tackling the inherent problems within each dataset, such as noise and distortions. We also present a pipeline that combines Image Processing and Deep Learning models. Finally, we benchmark the results of proposed models on these metrics on our new dataset and compare them with state-of-the-art models in the literature.
+
+<!-- Recommended citation: Your Namesdas, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
