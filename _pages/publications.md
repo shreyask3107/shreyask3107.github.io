@@ -16,5 +16,3 @@ author_profile: true
 {% endfor %}
 
 
-### Under Construction
-
