@@ -1,9 +1,9 @@
 ---
 title: "360FusionNeRF: Panoramic Neural Radiance Fields with Joint Guidance"
-collection: publications
+collection: underreview
 permalink: /publication/360fusionnerf
 date: 2022-09-28
-venue: 'IEEE Robotics and Automation Letters (under review)'
+venue: 'IEEE Robotics and Automation Letters'
 ---
 Authors: **Shreyas Kulkarni**, Peng Yin, Sebastian Scherer
 
