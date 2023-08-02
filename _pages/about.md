@@ -7,15 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a senior undergraduate student at the Indian Institute of Technology, Madras. I am interested in the theoretical foundations and practical applications of Machine Learning models. 
+I am a first-year Computer Science Masters student with a specialization in Machine Learning at Columbia University in the City of New York. Previously, I did my undergrad at the Indian Institute of Technology, Madras. I am interested in the broad areas of Machine Learning and Algorithms. 
 
-I am currently working with [Prof. Carlos Fernandez-Granda](https://cims.nyu.edu/~cfgranda/), New York University on unsupervised metrics for unsupervised denoising. My Bachelor Thesis is supervised by [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Vivek Kumar](https://www.kumarlab.org/2018/03/21/vivek-kumar-phd/). In my thesis, I am focusing on unsupervised behavior identification of mouse in an open assay. In the summer of 2022, I worked at [AirLab](https://theairlab.org/), Carnegie Mellon University under [Prof. Sebastian Scherer](https://theairlab.org/team/sebastian/) on neural radiance fields for 360 panorama settings. I interned for an year at [Video Analytics Lab](https://val.cds.iisc.ac.in/index.html), Indian Institute of Science under the supervision of [Prof. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/) where I worked on source free domain adaptation. 
+During my undergrad, I have published papers at International Conference on Machine Learning (ICML 2022), European Conference on Computer Vision (ECCV 2022), and IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023). I currently have 3 more papers under review in eLife Sciences Journal, Nature Methods Journal, and ACM Conference on Human Factors in Computing Systems (CHI 2024). Wish me luck :).
 
+I have worked with various teams during my undergrad. Particularly I am associated with Microsoft Research India (Summer 2023), Jackson Laboratory (Spring 2023), CDS New York University (Fall 2022), AirLab Carnegie Mellon University (Summer 2022), Computer Vision and Intelligence Club IIT Madras (Spring 2022), Siemens Technology India (Summer 2021) and Vision and AI Lab, Indian Institute of Science (Spring 2021).
 
-I also have experience with industry research, having worked on reinforcement learning for sequential recommendation systems at Siemens Technology India. I was an active member of the Technical Clubs in my university where I have researched on binary segmentation of cracks. 
-
-
-I have also spent a semester as an Erasmus+ Exchange student at Technical University of Denmark, where I learnt to adapt to different academic and research cultures. 
+I have also spent my Fall 2022 as an Erasmus+ Exchange student at Technical University of Denmark, Copenhagen. 
 
 <!---
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=150&t=tt&d=vuy8oJHmtOg7LUHtjdY1k-B5CjSIsQ-mzVNm9KPAL0M&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9"></script>
