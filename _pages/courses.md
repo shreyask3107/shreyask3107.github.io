@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-Below are some exciting courses I have credited during my undergrad (until Semester 7).
+Below are some exciting courses I have credited during my studies:
 
 ### Artificial Intelligence/Machine Learning:
 * CS7011: Topics in Reinforcement Learning
