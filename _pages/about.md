@@ -11,9 +11,9 @@ I am a first-year **Computer Science** Masters student with a specialization in 
 
 I am interested in the broad areas of **Machine Learning and Algorithms**.
 
-I have worked with various teams during my undergrad. Particularly I am associated with **Microsoft Research India**, **Jackson Laboratory**, and AirLab **Carnegie Mellon University**.
+I have worked with various teams and particularly, I am associated with **Microsoft Research India**, **Jackson Laboratory**, and AirLab **Carnegie Mellon University**.
 
-During my undergrad, I have published papers at International Conference on Machine Learning (**ICML 2022**), European Conference on Computer Vision (**ECCV 2022**), and IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2023**).
+I have published papers at top conferences such as International Conference on Machine Learning (**ICML 2022**), European Conference on Computer Vision (**ECCV 2022**), and IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2023**).
 
 I have also spent my Fall 2022 as an **Erasmus+** Exchange student at **Technical University of Denmark**, Copenhagen in their Applied Mathematics and Computer Science Department. 
 
