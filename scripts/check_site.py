@@ -224,7 +224,8 @@ def main():
               "The bio is missing the requested team, employer, and location wording")
         check("My research interests" not in home.text,
               "The removed research-interests paragraph is still present")
-        for detail in ("Redmond", "IC3 team", "anomaly detection for Microsoft Teams",
+        for detail in ("Redmond", "IC3 team", "anomaly detection for video conferencing",
+                       "health chatbots", "synthetic data generation",
                        "Prof. Smaranda Muresan", "Prof. Balaraman Ravindran"):
             check(detail in home.text, f"Homepage is missing {detail}")
         check(home.publication_count == len(records), "Homepage publication count is incorrect")

@@ -6,11 +6,11 @@ industry:
   summary: >-
     Enterprise search relevance in the Frontier Tuning team.
     My work focuses on post-training language and embedding models,
-    synthetic data, and evaluation.
+    synthetic data generation, and evaluation.
   previous: >-
     Previously, I was an Applied Scientist Intern with the IC3 team (2024),
-    working on anomaly detection for Microsoft Teams. Earlier, I was a
-    Research Intern at Microsoft Research India (2023), working on CataractBot.
+    working on anomaly detection for video conferencing. Earlier, I was a
+    Research Intern at Microsoft Research India (2023), working on health chatbots.
   links:
     - label: Research group
       url: https://www.microsoft.com/en-us/research/group/copilot-tuning-research/
