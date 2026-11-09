@@ -2,6 +2,16 @@
 _site
 .sass-cache
 .vagrant
+.jekyll-cache
+.jekyll-metadata
+.bundle/
+.tools/
+vendor/
+
+# Keep account credentials out of this public website.
+*recovery*codes*
+.env
+.env.*
 
 # general
 .DS_Store

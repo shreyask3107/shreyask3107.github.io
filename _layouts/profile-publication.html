@@ -1,0 +1,12 @@
+---
+layout: profile
+---
+<article class="document-page publication-detail">
+  <a class="back-link" href="{{ '/#publications' | relative_url }}">&larr; All publications</a>
+  <div class="paper-affiliation">
+    {% include profile-organization-logo.html organization=page.organization %}
+  </div>
+  <h1>{{ page.title }}</h1>
+  {% include profile-publication-meta.html publication=page %}
+  <div class="document-body">{{ content | markdownify }}</div>
+</article>

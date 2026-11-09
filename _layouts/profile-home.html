@@ -1,0 +1,46 @@
+---
+layout: profile
+---
+<section class="intro" id="about" aria-labelledby="profile-name">
+  <div class="intro-copy">
+    <h1 id="profile-name">{{ site.author.name }}</h1>
+    <div class="biography">{{ content }}</div>
+    <nav class="contact-links" aria-label="Contact and profiles">
+      <a href="mailto:{{ site.author.email }}">Email</a>
+      <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}/">LinkedIn</a>
+      <a href="{{ site.author.googlescholar | escape }}">Google Scholar</a>
+      <a href="https://github.com/{{ site.author.github }}">GitHub</a>
+    </nav>
+  </div>
+  <img class="portrait" src="{{ site.author.avatar | prepend: '/images/' | relative_url }}"
+       alt="{{ site.author.name }}" width="768" height="1051" fetchpriority="high">
+</section>
+
+<section class="profile-section" id="experience" aria-labelledby="experience-title">
+  <h2 id="experience-title">Industry</h2>
+  {% assign industry = site.data.profile.industry %}
+  <div class="industry-row">
+    <div>
+      {% include profile-organization-logo.html organization=industry.organization %}
+      <p class="entry-period">{{ industry.period }}</p>
+      <p class="entry-location">{{ industry.location }}</p>
+    </div>
+    <div>
+      <h3 class="entry-role">{{ industry.role }}</h3>
+      <p>{{ industry.summary }}</p>
+      <p class="previous-roles">{{ industry.previous }}</p>
+      <ul class="inline-links" aria-label="Microsoft work">
+        {% for link in industry.links %}
+          <li><a href="{{ link.url | escape }}">{{ link.label }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+</section>
+
+<section class="profile-section" id="publications" aria-labelledby="publications-title">
+  <h2 id="publications-title">Research &amp; Publications</h2>
+  <p class="section-note">Institution logos indicate my research affiliation for each project.</p>
+  {% include profile-publications.html %}
+</section>

@@ -1,0 +1,15 @@
+{% assign publications = site.publications | sort: "display_order" %}
+{% assign publication_heading = include.heading | default: "h3" %}
+<ol class="publication-list">
+  {% for publication in publications %}
+    <li class="publication-row" value="{{ publication.display_order }}">
+      <div class="publication-brand">
+        {% include profile-organization-logo.html organization=publication.organization %}
+      </div>
+      <article>
+        <{{ publication_heading }} class="publication-title"><a href="{{ publication.url | relative_url }}">{{ publication.title }}</a></{{ publication_heading }}>
+        {% include profile-publication-meta.html publication=publication %}
+      </article>
+    </li>
+  {% endfor %}
+</ol>

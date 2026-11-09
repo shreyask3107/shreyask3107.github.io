@@ -1,0 +1,49 @@
+microsoft:
+  name: Microsoft
+  logo: /assets/logos/microsoft.svg
+  source: https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012).svg
+  credit: Microsoft Corporation / Jason Wells
+  terms: Public domain (simple geometric shapes and text).
+  changes: Unmodified.
+
+columbia:
+  name: Columbia University
+  logo: /assets/logos/columbia.svg
+  source: https://commons.wikimedia.org/wiki/File:Columbia_University_1754.svg
+  credit: Columbia University
+  terms: Public domain (simple geometric shapes and text).
+  changes: Unmodified.
+
+nyu:
+  name: New York University
+  logo: /assets/logos/nyu.svg
+  source: https://commons.wikimedia.org/wiki/File:Nyu_short_color.svg
+  credit: New York University
+  terms: Public domain (simple geometric shapes and text).
+  changes: Unmodified.
+
+cmu:
+  name: Carnegie Mellon University
+  logo: /assets/logos/cmu.jpg
+  source: https://commons.wikimedia.org/wiki/File:CMU_logo_stack_cmyk_red.jpg
+  credit: Carnegie Mellon University
+  terms: Public domain (text wordmark).
+  changes: Resized and optimized for web display.
+
+iit-madras:
+  name: IIT Madras
+  logo: /assets/logos/iit-madras.svg
+  source: https://commons.wikimedia.org/wiki/File:IIT_Madras_Logo_(Black_and_White).svg
+  credit: Indian Institute of Technology Madras
+  terms: Creative Commons Attribution-ShareAlike 4.0 International.
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  changes: Line endings normalized; artwork unchanged. This asset remains under its original CC BY-SA 4.0 license.
+
+iisc:
+  name: Indian Institute of Science
+  logo: /assets/logos/iisc.png
+  dark_background: true
+  source: https://www.iisc.ac.in/wp-content/uploads/2016/06/logo-iisc.png
+  credit: Indian Institute of Science
+  terms: Institutional logo from the official IISc website. Rights remain with IISc.
+  changes: Unmodified image, displayed on a dark background for legibility.

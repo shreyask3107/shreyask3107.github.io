@@ -1,16 +1,7 @@
-# main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-#   - title: "Research Experience"
-#     url: /research_experience/    
-    
-#   - title: "Projects"
-#     url: /projects/
-
-  - title: "Courses"
-    url: /courses/
-
-#   - title: "Paper Summaries"
-#     url: /paper_summaries/
+  - title: "About"
+    url: /#about
+  - title: "Industry"
+    url: /#experience
+  - title: "Research & Publications"
+    url: /#publications

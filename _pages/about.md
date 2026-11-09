@@ -1,22 +1,15 @@
 ---
+layout: profile-home
 permalink: /
 title: "Shreyas Kulkarni"
-excerpt: ""
-author_profile: true
+description: "Applied Scientist at Microsoft in Redmond, training models for enterprise search relevance in the Frontier Tuning team."
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a first-year **Computer Science** Masters student with a specialization in **Machine Learning** at **Columbia University** in the City of New York. I am currently advised by Prof. Smaranda Muresan at the Columbia NLP Lab. Previously, I did my undergrad with honors at the **Indian Institute of Technology, Madras** where I was advised by Prof. Balaraman Ravindran. 
+I work on training models for enterprise search relevance in the [Frontier Tuning Team](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/) at Microsoft, Redmond.
 
-I am interested in the broad areas of **Machine Learning and Algorithms**.
+I received my **M.S. in Computer Science from Columbia University**, where I specialized in machine learning and was advised by Prof. Smaranda Muresan. I previously earned a **B.Tech. with Honors from IIT Madras**, with a minor in computer science, and was advised by Prof. Balaraman Ravindran. During my undergraduate studies, I also spent an **Erasmus+ exchange semester at the Technical University of Denmark**.
 
-I have worked with various teams and particularly, I am associated with **Microsoft Research India**, **Jackson Laboratory**, and AirLab **Carnegie Mellon University**.
-
-I have published papers at top conferences such as International Conference on Machine Learning (**ICML 2022**), European Conference on Computer Vision (**ECCV 2022**), and IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2023**).
-
-I have also spent my Fall 2022 as an **Erasmus+** Exchange student at **Technical University of Denmark**, Copenhagen in their Applied Mathematics and Computer Science Department. 
-
-<!---
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=150&t=tt&d=vuy8oJHmtOg7LUHtjdY1k-B5CjSIsQ-mzVNm9KPAL0M&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9"></script>
--->
+During my studies, I worked on a broad range of machine learning problems, with publications at **ICML, NAACL, IROS, UbiComp, and ECCV-W**, as well as in **Science**. I also organized a shared task at **FigLang@NAACL**.

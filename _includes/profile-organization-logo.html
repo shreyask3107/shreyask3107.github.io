@@ -1,0 +1,5 @@
+{% assign organization = site.data.organizations[include.organization] %}
+<img class="organization-logo{% if organization.dark_background %} organization-logo--dark{% endif %}"
+     src="{{ organization.logo | relative_url }}"
+     alt="{{ organization.name | escape }}" title="{{ organization.name | escape }}"
+     width="160" height="80" loading="lazy" decoding="async">

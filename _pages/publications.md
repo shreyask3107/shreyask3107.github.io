@@ -1,14 +1,11 @@
 ---
-layout: archive
-title: "Publications"
+layout: profile
+title: "Research & Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
+<section class="document-page" aria-labelledby="publications-title">
+  <h1 id="publications-title">Research &amp; Publications</h1>
+  <p class="section-note">Institution logos indicate my research affiliation for each project.</p>
+  {% include profile-publications.html heading="h2" %}
+</section>

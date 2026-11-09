@@ -1,31 +1,97 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Shreyas Kulkarni - Personal Website
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+Source for [shreyask3107.github.io](https://shreyask3107.github.io/), built with
+Jekyll and compatible with GitHub Pages.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+The refreshed profile is a compact, responsive page with three sections:
+About, Industry (all Microsoft roles together), and Research & Publications.
+Education and the DTU exchange are summarized in the biography rather than
+repeated in a separate section. Its layout is an original implementation inspired by
+[Tanay Dixit's profile](https://tanay2001.github.io/); no source code or assets
+from that site are copied.
 
-# Instructions
+## Editing content
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+| Content | Source |
+| --- | --- |
+| Short biography | [_pages/about.md](./_pages/about.md) |
+| Microsoft industry experience | [_data/profile.yml](./_data/profile.yml) |
+| Institution names, logos, and attribution | [_data/organizations.yml](./_data/organizations.yml) |
+| Contact links and site metadata | [_config.yml](./_config.yml) |
+| Publication records and summaries | [_publications/](./_publications/) |
+| Portrait | [images/shreyas_kulkarni.jpg](./images/shreyas_kulkarni.jpg) |
+| Layout and styling | [_layouts/profile-home.html](./_layouts/profile-home.html), [assets/css/profile.css](./assets/css/profile.css) |
 
-See more info at https://academicpages.github.io/
+Publication records are the single source for the homepage, publication index,
+and individual paper pages. Each record needs a title, permalink, authors,
+publication year, a short venue label, paper URL, a unique positive integer
+`display_order`, and an `organization` key matching
+[_data/organizations.yml](./_data/organizations.yml). Institution logos show
+Shreyas's research affiliation for the project, not the affiliations of every
+coauthor. Logos retain accessible names without duplicate visible affiliation
+captions. Code, project, and video URLs are optional.
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+Lists use `display_order`, lowest first, independently of publication year.
+The FigLang shared-task paper is placed immediately before CataractBot;
+other papers retain their relative order. Update these numbers when reordering
+or adding papers. Keep venue labels concise, such as `CVCIE@ECCV`, `FigLang@NAACL`,
+and `IROS`; the year is appended automatically. Use Markdown bold to highlight
+Shreyas's name in the author list.
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+Logo files are served locally from [assets/logos/](./assets/logos/). Their sources,
+rights information, and any modifications are documented on the
+[logo credits page](./_pages/credits.html), linked from the footer. The IIT Madras
+asset retains its CC BY-SA 4.0 license; image rights are separate from the site's
+code license.
 
-# Changelog -- bugfixes and enhancements
+The existing `/publications/` and three older paper routes remain available.
+Paper routes use directory-style URLs; GitHub Pages redirects their original
+slashless URLs to the trailing-slash versions. Coursework is no longer displayed,
+and `/courses/` redirects to the About section instead of returning a broken link.
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+Only a short public biography and public contact links are included in the
+refresh. Do not copy the full private CV, account recovery codes, or other
+credentials into this repository.
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+## Local development
+
+Use Ruby with Bundler. On this machine, an isolated Ruby installation is already
+available inside the ignored `.tools/ruby` directory:
+
+```sh
+cd /home/kulkarnis/fun/github_profile
+export PATH="$PWD/.tools/ruby/bin:$PATH"
+bundle config set --local path vendor/bundle
+bundle install
+bundle exec jekyll serve --host 127.0.0.1 --port 4000 --config _config.yml,_config.dev.yml
+```
+
+Open <http://127.0.0.1:4000>. Jekyll watches content changes; restart the server
+after editing configuration. On another machine with Ruby and Bundler already
+installed, omit the project-local `PATH` line.
+
+The profile, publication, and logo credits pages use local CSS and no JavaScript
+or third-party analytics. Older archived pages retain their original theme.
+
+## Validation
+
+```sh
+bundle exec jekyll build
+python3 scripts/check_site.py
+```
+
+The dependency-free check validates the refreshed pages, publication counts and
+order, short venue labels, bio/industry content, headings, institution logos,
+internal links, fragments, local assets, and the about/coursework redirects.
+Also check the preview in a browser at desktop and mobile widths before
+publishing.
+
+Local builds do not publish anything. Review the rendered result before pushing
+changes to the GitHub Pages repository.
+
+## Template attribution
+
+The original site is based on [AcademicPages](https://academicpages.github.io/)
+and [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
+Their existing license and archived theme files are retained; see
+[LICENSE](./LICENSE).

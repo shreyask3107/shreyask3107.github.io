@@ -1,0 +1,15 @@
+{% assign publication = include.publication %}
+<div class="publication-authors">{{ publication.authors | markdownify }}</div>
+<p class="publication-venue">{{ publication.venue | escape }} {{ publication.publication_year }}</p>
+<ul class="inline-links publication-links" aria-label="Links for {{ publication.title | escape }}">
+  <li><a href="{{ publication.paper_url | escape }}">Paper</a></li>
+  {% if publication.code_url %}
+    <li><a href="{{ publication.code_url | escape }}">Code</a></li>
+  {% endif %}
+  {% if publication.project_url %}
+    <li><a href="{{ publication.project_url | escape }}">Project</a></li>
+  {% endif %}
+  {% if publication.video_url %}
+    <li><a href="{{ publication.video_url | escape }}">Video</a></li>
+  {% endif %}
+</ul>

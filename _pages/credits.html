@@ -1,0 +1,20 @@
+---
+layout: profile
+title: "Logo credits"
+permalink: /credits/
+author_profile: false
+---
+<article class="document-page document-body">
+  <h1>Logo credits</h1>
+  <p>These logos identify my industry and research affiliations. Their inclusion does not imply institutional endorsement of this website. Trademarks remain with their respective owners; the terms below apply to the individual images.</p>
+  {% for entry in site.data.organizations %}
+    {% assign organization_key = entry[0] %}
+    {% assign institution = entry[1] %}
+    <section class="logo-credit" id="{{ entry[0] }}">
+      <h2>{{ institution.name }}</h2>
+      {% include profile-organization-logo.html organization=organization_key %}
+      <p>Credit: {{ institution.credit }}. <a href="{{ institution.source | escape }}">Original source</a>.</p>
+      <p>{{ institution.terms }}{% if institution.license_url %} <a href="{{ institution.license_url }}">View license</a>.{% endif %} {{ institution.changes }}</p>
+    </section>
+  {% endfor %}
+</article>

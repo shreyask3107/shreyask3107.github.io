@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="{{ site.locale | slice: 0, 2 }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% if page.url == "/" %}
+      {% assign profile_title = site.title %}
+    {% else %}
+      {% assign profile_title = page.title | append: " | " | append: site.title %}
+    {% endif %}
+    {% assign profile_description = page.description | default: page.summary | default: site.description | strip_html | strip_newlines %}
+    <title>{{ profile_title | escape }}</title>
+    <meta name="description" content="{{ profile_description | escape }}">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ profile_title | escape }}">
+    <meta property="og:description" content="{{ profile_description | escape }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:image" content="{{ site.author.avatar | prepend: '/images/' | absolute_url }}">
+    <meta name="twitter:card" content="summary">
+    <link rel="icon" href="{{ '/images/profile-mark.svg' | relative_url }}" type="image/svg+xml">
+    <link rel="stylesheet" href="{{ '/assets/css/profile.css' | relative_url }}">
+  </head>
+  <body id="top">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="site-name" href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
+        <nav class="site-nav" aria-label="Main navigation">
+          <a href="{{ '/#about' | relative_url }}">About</a>
+          <a href="{{ '/#experience' | relative_url }}">Industry</a>
+          <a href="{{ '/#publications' | relative_url }}">Research &amp; Publications</a>
+        </nav>
+      </header>
+      <main id="main" tabindex="-1">
+        {{ content }}
+      </main>
+      <footer class="site-footer">
+        <span>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}</span>
+        <div class="footer-links">
+          <a href="https://github.com/{{ site.author.github }}">GitHub</a>
+          <a href="{{ '/credits/' | relative_url }}">Logo credits</a>
+          <a href="#top">Back to top &uarr;</a>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
